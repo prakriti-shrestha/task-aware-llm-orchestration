@@ -1,5 +1,6 @@
 import torch
 import numpy as np
+import os
 from encoder import TaskEncoder
 from predictors import TaskPropertyPredictor
 from dataset import load_phase1_data, compute_labels
@@ -10,7 +11,7 @@ model = TaskPropertyPredictor(embed_dim=384)
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
 loss_fn = torch.nn.MSELoss()
 
-data = load_phase1_data("data/phase1_logs.jsonl")
+data = load_phase1_data("../data/phase1_logs.jsonl")
 
 for epoch in range(20):
     total_loss = 0
@@ -28,3 +29,10 @@ for epoch in range(20):
         total_loss += loss.item()
 
     print(f"Epoch {epoch} | Loss {total_loss:.4f}")
+
+os.makedirs("checkpoints", exist_ok=True)
+torch.save(
+    model.state_dict(),
+    "checkpoints/task_feature_model.pt"
+)
+print("Saved task feature model.")
