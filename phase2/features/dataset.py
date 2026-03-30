@@ -2,6 +2,7 @@ import json
 import numpy as np
 from collections import defaultdict
 
+# Goes through each log and groups same task text together
 def load_phase1_data(path):
     data = defaultdict(list)
 
@@ -12,6 +13,7 @@ def load_phase1_data(path):
 
     return data
 
+# Creates labels for weak supervision 
 def compute_labels(task_runs):
     qualities = [r["quality"] for r in task_runs]
 

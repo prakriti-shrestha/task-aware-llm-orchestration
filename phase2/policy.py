@@ -6,7 +6,7 @@ class PolicyLearner:
         self.workflows = workflows
         self.epsilon = epsilon
 
-        # one weight vector per workflow
+        # one weight vector per workflow initialized to zeros
         self.weights = {
             wf: np.zeros(feature_dim)
             for wf in workflows

@@ -498,3 +498,1003 @@
 {"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6295629613697054, "cost": 6, "reward": 0.029562961369705265}
 {"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5844245398101153, "cost": 6, "reward": -0.01557546018988476}
 {"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2168849370338356, "cost": 1, "reward": 0.1168849370338356}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6886713180776716, "cost": 1, "reward": 0.5886713180776716}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3808353634920346, "cost": 1, "reward": 0.28083536349203464}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6350222296776824, "cost": 3, "reward": 0.33502222967768236}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4951471543657495, "cost": 3, "reward": 0.19514715436574948}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4894469711679629, "cost": 6, "reward": -0.11055302883203721}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7625918591156066, "cost": 6, "reward": 0.16259185911560647}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7180001963967665, "cost": 6, "reward": 0.1180001963967664}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4839383786984675, "cost": 3, "reward": 0.18393837869846746}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6524813783594308, "cost": 6, "reward": 0.052481378359430675}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.47370879484476425, "cost": 6, "reward": -0.12629120515523584}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5524116284353305, "cost": 1, "reward": 0.45241162843533056}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6094626994687744, "cost": 3, "reward": 0.30946269946877436}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2369253072414848, "cost": 1, "reward": 0.1369253072414848}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.4331586170913204, "cost": 1, "reward": 0.33315861709132044}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.13339686988119143, "cost": 1, "reward": 0.03339686988119142}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.716559833051031, "cost": 3, "reward": 0.41655983305103095}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.74410231219668, "cost": 3, "reward": 0.44410231219667995}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6550329453879795, "cost": 6, "reward": 0.055032945387979426}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6771120572356016, "cost": 6, "reward": 0.07711205723560155}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.08217122873629384, "cost": 1, "reward": -0.01782877126370616}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.46236944118843204, "cost": 1, "reward": 0.36236944118843206}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5149234565851248, "cost": 3, "reward": 0.2149234565851248}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6281662599740578, "cost": 3, "reward": 0.3281662599740578}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.673074452701697, "cost": 6, "reward": 0.07307445270169688}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5289409843058489, "cost": 6, "reward": -0.07105901569415118}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6879443719415022, "cost": 1, "reward": 0.5879443719415022}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.40035078193112683, "cost": 1, "reward": 0.30035078193112685}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6468702786123015, "cost": 6, "reward": 0.04687027861230142}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5157496070047596, "cost": 6, "reward": -0.08425039299524051}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.2851701375675144, "cost": 3, "reward": -0.01482986243248563}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7062819806500108, "cost": 3, "reward": 0.40628198065001075}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.33345386272350896, "cost": 1, "reward": 0.23345386272350896}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3963950319885841, "cost": 1, "reward": 0.2963950319885841}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5542334705418481, "cost": 3, "reward": 0.2542334705418481}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.34550031015200366, "cost": 3, "reward": 0.04550031015200362}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9033041089869096, "cost": 6, "reward": 0.3033041089869095}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7323956367833974, "cost": 6, "reward": 0.13239563678339727}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.49529856413706413, "cost": 1, "reward": 0.3952985641370641}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.29127921526112655, "cost": 1, "reward": 0.19127921526112654}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4618345604908459, "cost": 3, "reward": 0.16183456049084588}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.691117436286448, "cost": 1, "reward": 0.591117436286448}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5102982509606987, "cost": 1, "reward": 0.4102982509606987}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5927709896072262, "cost": 3, "reward": 0.29277098960722614}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6609832327441123, "cost": 6, "reward": 0.060983232744112215}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5429368849846345, "cost": 6, "reward": -0.05706311501536554}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6552759598427587, "cost": 3, "reward": 0.3552759598427586}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7279520195668896, "cost": 6, "reward": 0.1279520195668895}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6939152369092696, "cost": 6, "reward": 0.0939152369092695}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3953078087855567, "cost": 3, "reward": 0.09530780878555667}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.21367321200371647, "cost": 1, "reward": 0.11367321200371647}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6980162737726701, "cost": 1, "reward": 0.5980162737726701}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7243661959009567, "cost": 3, "reward": 0.4243661959009567}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6203880464045508, "cost": 3, "reward": 0.32038804640455076}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5423084089534742, "cost": 6, "reward": -0.05769159104652588}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4228114857079548, "cost": 6, "reward": -0.1771885142920453}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5559271851508129, "cost": 1, "reward": 0.4559271851508129}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7268032966978878, "cost": 3, "reward": 0.42680329669788775}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4100598231412456, "cost": 3, "reward": 0.11005982314124557}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2415557545501939, "cost": 1, "reward": 0.1415557545501939}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3296271675885928, "cost": 1, "reward": 0.22962716758859278}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9446113735827478, "cost": 6, "reward": 0.34461137358274774}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3257657365587515, "cost": 1, "reward": 0.2257657365587515}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5885082486345572, "cost": 6, "reward": -0.011491751365442893}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4351784486040555, "cost": 3, "reward": 0.13517844860405548}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3928430694390199, "cost": 3, "reward": 0.09284306943901988}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7676722335036041, "cost": 6, "reward": 0.16767223350360405}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7951895393789682, "cost": 6, "reward": 0.1951895393789681}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.38535384881079643, "cost": 1, "reward": 0.2853538488107964}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1950006723608675, "cost": 1, "reward": 0.09500067236086748}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.37107824221009555, "cost": 3, "reward": 0.07107824221009551}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8350857353878964, "cost": 3, "reward": 0.5350857353878964}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6756492203864924, "cost": 6, "reward": 0.07564922038649236}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7447568600460746, "cost": 6, "reward": 0.14475686004607446}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.39569598076558066, "cost": 3, "reward": 0.09569598076558061}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3415167939615563, "cost": 3, "reward": 0.041516793961556275}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5822352324637232, "cost": 1, "reward": 0.48223523246372324}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.41308220031055287, "cost": 1, "reward": 0.3130822003105529}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7079978931667543, "cost": 6, "reward": 0.10799789316675423}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6542917049708944, "cost": 6, "reward": 0.054291704970894306}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3314185705185456, "cost": 1, "reward": 0.2314185705185456}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5762817369612612, "cost": 1, "reward": 0.4762817369612612}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7472835949269584, "cost": 6, "reward": 0.1472835949269583}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.648273894683453, "cost": 6, "reward": 0.04827389468345289}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4601641559252918, "cost": 3, "reward": 0.16016415592529176}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.33241481244114757, "cost": 3, "reward": 0.03241481244114752}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9480121976495635, "cost": 6, "reward": 0.34801219764956337}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7772953838594338, "cost": 6, "reward": 0.17729538385943366}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4939921509754838, "cost": 1, "reward": 0.3939921509754838}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5971662638297359, "cost": 6, "reward": -0.0028337361702641672}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.45638221772721843, "cost": 6, "reward": -0.14361778227278166}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6007534361886291, "cost": 1, "reward": 0.5007534361886291}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6102496653910551, "cost": 3, "reward": 0.31024966539105503}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.425643907280349, "cost": 3, "reward": 0.12564390728034897}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.41530866824175194, "cost": 1, "reward": 0.31530866824175197}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.24681513098025432, "cost": 1, "reward": 0.1468151309802543}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7428093825699669, "cost": 3, "reward": 0.4428093825699668}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6119473993535495, "cost": 3, "reward": 0.3119473993535494}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5885337367391776, "cost": 6, "reward": -0.011466263260822451}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5357436488020038, "cost": 3, "reward": 0.2357436488020037}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11140681413846892, "cost": 1, "reward": 0.011406814138468918}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8195981874490609, "cost": 6, "reward": 0.2195981874490608}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5227384636992869, "cost": 3, "reward": 0.22273846369928685}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3719712960114879, "cost": 1, "reward": 0.27197129601148784}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.33963821420041984, "cost": 1, "reward": 0.23963821420041984}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.23806851407381258, "cost": 1, "reward": 0.13806851407381257}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4462533058073064, "cost": 1, "reward": 0.3462533058073064}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5374573266889248, "cost": 1, "reward": 0.4374573266889248}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.44162077294624197, "cost": 1, "reward": 0.34162077294624194}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.35045875328755627, "cost": 1, "reward": 0.2504587532875563}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.43034033404477146, "cost": 6, "reward": -0.16965966595522863}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9450263223818254, "cost": 6, "reward": 0.3450263223818253}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5136062131928579, "cost": 3, "reward": 0.21360621319285789}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6450762377187462, "cost": 3, "reward": 0.3450762377187462}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5188005853901598, "cost": 6, "reward": -0.08119941460984026}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.46972515890007727, "cost": 6, "reward": -0.13027484109992282}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8173009726874391, "cost": 3, "reward": 0.517300972687439}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6310234061714196, "cost": 3, "reward": 0.33102340617141957}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3971314834901501, "cost": 1, "reward": 0.29713148349015006}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.15797030374996485, "cost": 1, "reward": 0.05797030374996484}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.39387963148030525, "cost": 3, "reward": 0.0938796314803052}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6332263266136846, "cost": 3, "reward": 0.33322632661368456}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7913346620250071, "cost": 6, "reward": 0.19133466202500704}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5933665050481842, "cost": 6, "reward": -0.006633494951815866}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5789329025876147, "cost": 6, "reward": -0.021067097412385438}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4548467703536241, "cost": 6, "reward": -0.145153229646376}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6418474995776776, "cost": 3, "reward": 0.34184749957767757}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5071246111417089, "cost": 3, "reward": 0.20712461114170888}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2970809061015688, "cost": 1, "reward": 0.19708090610156878}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3824145368920858, "cost": 1, "reward": 0.28241453689208584}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4324937914206387, "cost": 3, "reward": 0.13249379142063866}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7079567225243069, "cost": 3, "reward": 0.4079567225243068}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8249217091068112, "cost": 6, "reward": 0.22492170910681109}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.45097208234134295, "cost": 3, "reward": 0.1509720823413429}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5654044058969997, "cost": 3, "reward": 0.26540440589699965}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4535884045776757, "cost": 6, "reward": -0.1464115954223244}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4177180964505618, "cost": 1, "reward": 0.3177180964505618}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4125208058647917, "cost": 1, "reward": 0.3125208058647917}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.45795941865863216, "cost": 1, "reward": 0.3579594186586321}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.19317026223028966, "cost": 1, "reward": 0.09317026223028965}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5576382452829235, "cost": 6, "reward": -0.042361754717076594}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.783696998485269, "cost": 6, "reward": 0.18369699848526888}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7197445588518651, "cost": 3, "reward": 0.419744558851865}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.48728377362569447, "cost": 1, "reward": 0.38728377362569444}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.4498119048333792, "cost": 1, "reward": 0.3498119048333792}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.36544260961566954, "cost": 3, "reward": 0.0654426096156695}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8073121956199183, "cost": 6, "reward": 0.2073121956199182}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8200138663613331, "cost": 6, "reward": 0.22001386636133302}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5991499415023309, "cost": 3, "reward": 0.2991499415023309}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5906484419318612, "cost": 3, "reward": 0.2906484419318611}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.48698904572295376, "cost": 6, "reward": -0.11301095427704633}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9187155704803082, "cost": 6, "reward": 0.3187155704803081}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5013228226164514, "cost": 1, "reward": 0.40132282261645147}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.44744784379591723, "cost": 1, "reward": 0.3474478437959172}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5889516345432704, "cost": 3, "reward": 0.28895163454327033}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.49298400274590515, "cost": 3, "reward": 0.1929840027459051}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8538053095356867, "cost": 6, "reward": 0.2538053095356866}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7493820220068775, "cost": 6, "reward": 0.14938202200687745}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.45760639179485835, "cost": 1, "reward": 0.3576063917948583}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2888379005660795, "cost": 1, "reward": 0.1888379005660795}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.36294405563960297, "cost": 3, "reward": 0.06294405563960292}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6511225007413584, "cost": 3, "reward": 0.3511225007413583}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8359583416669842, "cost": 6, "reward": 0.23595834166698415}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.579416217416336, "cost": 6, "reward": -0.020583782583664112}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5229079249163434, "cost": 6, "reward": -0.07709207508365667}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5380598525883384, "cost": 6, "reward": -0.06194014741166165}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5667411845168738, "cost": 1, "reward": 0.46674118451687385}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5346182154878631, "cost": 1, "reward": 0.43461821548786317}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3795070277129486, "cost": 1, "reward": 0.27950702771294855}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3258355640116495, "cost": 1, "reward": 0.22583556401164948}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.49506935206668934, "cost": 3, "reward": 0.1950693520666893}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6164730659715432, "cost": 3, "reward": 0.3164730659715431}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5934413795241652, "cost": 3, "reward": 0.29344137952416516}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4007755877725387, "cost": 3, "reward": 0.10077558777253864}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4760017756580831, "cost": 3, "reward": 0.17600177565808306}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3513364961222256, "cost": 3, "reward": 0.05133649612222557}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8203660199617195, "cost": 6, "reward": 0.22036601996171945}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7879901055788574, "cost": 6, "reward": 0.1879901055788573}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4170379533715443, "cost": 1, "reward": 0.3170379533715443}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.17289804697292627, "cost": 1, "reward": 0.07289804697292626}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.593852593043486, "cost": 6, "reward": -0.0061474069565140566}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7643448813414189, "cost": 6, "reward": 0.16434488134141878}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.34223847513209404, "cost": 1, "reward": 0.24223847513209404}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3592373793137628, "cost": 1, "reward": 0.2592373793137628}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6131538107020377, "cost": 6, "reward": 0.013153810702037583}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5674291580470475, "cost": 6, "reward": -0.03257084195295257}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8496059231839401, "cost": 3, "reward": 0.5496059231839401}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5253572936789115, "cost": 3, "reward": 0.22535729367891144}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4062801452887524, "cost": 1, "reward": 0.30628014528875236}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3847714480855162, "cost": 1, "reward": 0.28477144808551624}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.33917035770357207, "cost": 3, "reward": 0.03917035770357202}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7189953271728363, "cost": 3, "reward": 0.4189953271728363}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7377569563078816, "cost": 6, "reward": 0.13775695630788154}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6530985365336375, "cost": 6, "reward": 0.053098536533637386}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4057029922823686, "cost": 3, "reward": 0.10570299228236857}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.31397863089027667, "cost": 3, "reward": 0.013978630890276622}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8707366138830737, "cost": 6, "reward": 0.2707366138830736}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7655736441237905, "cost": 6, "reward": 0.1655736441237904}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.44136322058267335, "cost": 1, "reward": 0.3413632205826733}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1841258229968007, "cost": 1, "reward": 0.08412582299680069}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.449706874897833, "cost": 3, "reward": 0.14970687489783296}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6850451212842348, "cost": 3, "reward": 0.38504512128423474}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5345663243557657, "cost": 3, "reward": 0.23456632435576563}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5528517658104357, "cost": 3, "reward": 0.25285176581043567}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3387790061089292, "cost": 1, "reward": 0.2387790061089292}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2187703531869799, "cost": 1, "reward": 0.1187703531869799}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7338651469966161, "cost": 3, "reward": 0.43386514699661605}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5775010257960848, "cost": 3, "reward": 0.2775010257960847}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5578239952066479, "cost": 6, "reward": -0.04217600479335215}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6463169295875807, "cost": 6, "reward": 0.0463169295875806}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11035679234188972, "cost": 1, "reward": 0.010356792341889715}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.48165909586881667, "cost": 1, "reward": 0.38165909586881663}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7872019910974646, "cost": 6, "reward": 0.1872019910974645}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.684117357698554, "cost": 6, "reward": 0.08411735769855389}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.41030428807951147, "cost": 1, "reward": 0.3103042880795115}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4187271553932892, "cost": 3, "reward": 0.11872715539328915}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7948211772316263, "cost": 3, "reward": 0.4948211772316262}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4679850547519627, "cost": 1, "reward": 0.36798505475196275}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6570602161084715, "cost": 6, "reward": 0.05706021610847145}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5015106500638442, "cost": 6, "reward": -0.09848934993615588}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.22460323091342038, "cost": 1, "reward": 0.12460323091342038}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.47746177213399976, "cost": 1, "reward": 0.3774617721339998}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8447843136400871, "cost": 6, "reward": 0.24478431364008701}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5877814638197532, "cost": 6, "reward": -0.01221853618024693}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5739801285119257, "cost": 3, "reward": 0.27398012851192566}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3435898035527506, "cost": 3, "reward": 0.04358980355275055}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.494136998944403, "cost": 1, "reward": 0.394136998944403}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3623594863995149, "cost": 1, "reward": 0.2623594863995149}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6670854183022341, "cost": 6, "reward": 0.06708541830223402}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5185626101783023, "cost": 6, "reward": -0.08143738982169779}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.19068228765203032, "cost": 1, "reward": 0.09068228765203032}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9006653000386649, "cost": 6, "reward": 0.30066530003866476}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6616014414474952, "cost": 6, "reward": 0.06160144144749513}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2625429498484918, "cost": 1, "reward": 0.1625429498484918}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3588907347625596, "cost": 3, "reward": 0.05889073476255957}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4317441947061993, "cost": 3, "reward": 0.13174419470619925}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8249638238360664, "cost": 3, "reward": 0.5249638238360663}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6456598376096827, "cost": 3, "reward": 0.34565983760968266}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.49180220286693904, "cost": 1, "reward": 0.391802202866939}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.34583774124153255, "cost": 1, "reward": 0.24583774124153254}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.2676457559957809, "cost": 3, "reward": -0.03235424400421916}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6837761910308657, "cost": 3, "reward": 0.3837761910308657}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8007288735848117, "cost": 6, "reward": 0.20072887358481162}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6433378094564306, "cost": 6, "reward": 0.04333780945643051}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.44681162160549803, "cost": 1, "reward": 0.34681162160549805}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4977431186135117, "cost": 6, "reward": -0.10225688138648836}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8046059249896446, "cost": 6, "reward": 0.20460592498964447}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5074877331039203, "cost": 1, "reward": 0.4074877331039203}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5506419357673737, "cost": 3, "reward": 0.2506419357673737}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5870721334745148, "cost": 3, "reward": 0.28707213347451477}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.29049271616740513, "cost": 1, "reward": 0.19049271616740512}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4151847098351155, "cost": 1, "reward": 0.3151847098351155}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7423531994033749, "cost": 6, "reward": 0.14235319940337476}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7264626601465694, "cost": 6, "reward": 0.12646266014656926}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3645554735366281, "cost": 3, "reward": 0.06455547353662805}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.31865762077136195, "cost": 3, "reward": 0.018657620771361905}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6813189259400866, "cost": 1, "reward": 0.5813189259400866}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5636960886798733, "cost": 3, "reward": 0.26369608867987326}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5910165482786323, "cost": 3, "reward": 0.2910165482786322}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1606510307398577, "cost": 1, "reward": 0.0606510307398577}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.596857451400214, "cost": 6, "reward": -0.0031425485997861324}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8696492940113129, "cost": 6, "reward": 0.26964929401131277}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.41514026783102054, "cost": 1, "reward": 0.31514026783102056}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.41062675978565605, "cost": 1, "reward": 0.310626759785656}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6075142467785896, "cost": 6, "reward": 0.007514246778589473}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4452358272738547, "cost": 6, "reward": -0.1547641727261454}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7626746397762927, "cost": 6, "reward": 0.1626746397762926}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3537388152982295, "cost": 1, "reward": 0.2537388152982295}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7137240649555523, "cost": 6, "reward": 0.1137240649555522}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.32803809503058223, "cost": 1, "reward": 0.22803809503058223}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.41067878234909116, "cost": 3, "reward": 0.11067878234909112}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.824167493373568, "cost": 3, "reward": 0.5241674933735679}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6819022688842032, "cost": 3, "reward": 0.3819022688842032}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.425078502791775, "cost": 3, "reward": 0.12507850279177496}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3810715187030046, "cost": 1, "reward": 0.2810715187030046}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.22057422969275364, "cost": 1, "reward": 0.12057422969275364}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8590109665821243, "cost": 6, "reward": 0.2590109665821242}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8085310144632221, "cost": 6, "reward": 0.20853101446322198}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5037381804020966, "cost": 3, "reward": 0.20373818040209657}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5927793019900518, "cost": 3, "reward": 0.29277930199005175}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.10793334296023516, "cost": 1, "reward": 0.007933342960235151}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8310312000981206, "cost": 3, "reward": 0.5310312000981205}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5257603837772872, "cost": 3, "reward": 0.22576038377728713}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.48253047055032167, "cost": 1, "reward": 0.38253047055032163}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5035821780307413, "cost": 6, "reward": -0.09641782196925874}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5548317268401635, "cost": 6, "reward": -0.045168273159836625}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9479696918791465, "cost": 6, "reward": 0.3479696918791464}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7929921960688053, "cost": 6, "reward": 0.19299219606880524}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.31102964000658334, "cost": 1, "reward": 0.21102964000658334}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4620237280817341, "cost": 3, "reward": 0.16202372808173404}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.25799845854772174, "cost": 3, "reward": -0.0420015414522783}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4013401685946049, "cost": 1, "reward": 0.3013401685946049}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5460968308953487, "cost": 1, "reward": 0.4460968308953487}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2551620664882693, "cost": 1, "reward": 0.15516206648826927}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5898460853605692, "cost": 6, "reward": -0.010153914639430939}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.18243940350725618, "cost": 1, "reward": 0.08243940350725618}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5135594348486918, "cost": 1, "reward": 0.41355943484869184}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8094504252987094, "cost": 6, "reward": 0.20945042529870928}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3892669102536978, "cost": 1, "reward": 0.2892669102536978}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.28151160646955, "cost": 1, "reward": 0.18151160646954997}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.34875992376207854, "cost": 3, "reward": 0.048759923762078494}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6385606738201803, "cost": 3, "reward": 0.3385606738201803}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7589037504644591, "cost": 6, "reward": 0.15890375046445904}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6615509588881439, "cost": 6, "reward": 0.06155095888814377}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5945148183514585, "cost": 3, "reward": 0.29451481835145843}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3735318010393033, "cost": 3, "reward": 0.07353180103930324}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8676728937245202, "cost": 6, "reward": 0.2676728937245201}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6892307303432278, "cost": 6, "reward": 0.0892307303432277}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6089323082300513, "cost": 3, "reward": 0.30893230823005124}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5665154595550148, "cost": 6, "reward": -0.03348454044498528}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5180592408824285, "cost": 6, "reward": -0.0819407591175716}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6480977976034253, "cost": 3, "reward": 0.3480977976034253}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4451371425355686, "cost": 1, "reward": 0.3451371425355686}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2549864521570981, "cost": 1, "reward": 0.15498645215709808}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6912062513762559, "cost": 6, "reward": 0.09120625137625582}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4669717857176736, "cost": 6, "reward": -0.13302821428232647}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.667767722256642, "cost": 3, "reward": 0.367767722256642}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6511665527282062, "cost": 3, "reward": 0.3511665527282062}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.23254326726632268, "cost": 1, "reward": 0.13254326726632268}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.22449212126162066, "cost": 1, "reward": 0.12449212126162065}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4023761514167, "cost": 3, "reward": 0.10237615141669998}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6709478577669008, "cost": 3, "reward": 0.37094785776690076}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5929883823313923, "cost": 1, "reward": 0.4929883823313923}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.35816146608069716, "cost": 1, "reward": 0.2581614660806971}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5526329508886628, "cost": 6, "reward": -0.04736704911133727}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5669536500796432, "cost": 6, "reward": -0.03304634992035693}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6139626989789857, "cost": 3, "reward": 0.31396269897898565}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5585068015281687, "cost": 3, "reward": 0.25850680152816863}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4545557246772209, "cost": 1, "reward": 0.35455572467722085}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1687448013012256, "cost": 1, "reward": 0.0687448013012256}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.320628765475096, "cost": 3, "reward": 0.020628765475095956}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7990904464711551, "cost": 3, "reward": 0.4990904464711551}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7827847424842859, "cost": 6, "reward": 0.18278474248428578}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.709064137337891, "cost": 6, "reward": 0.10906413733789089}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5418461368301944, "cost": 3, "reward": 0.2418461368301944}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4816175217430735, "cost": 3, "reward": 0.18161752174307344}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4294112316044021, "cost": 1, "reward": 0.3294112316044021}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.47582246077157475, "cost": 1, "reward": 0.3758224607715748}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7096082466835825, "cost": 6, "reward": 0.10960824668358238}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5242420241378464, "cost": 6, "reward": -0.07575797586215371}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3165560001091393, "cost": 1, "reward": 0.2165560001091393}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.43256269928047353, "cost": 1, "reward": 0.33256269928047355}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6958908618188563, "cost": 3, "reward": 0.39589086181885624}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.46863966599844437, "cost": 3, "reward": 0.16863966599844432}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5773074621142297, "cost": 6, "reward": -0.022692537885770414}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4450867481836597, "cost": 6, "reward": -0.1549132518163404}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5942343050077346, "cost": 1, "reward": 0.4942343050077346}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8355140768845365, "cost": 6, "reward": 0.2355140768845364}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.646097424021532, "cost": 6, "reward": 0.04609742402153194}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2139006970340493, "cost": 1, "reward": 0.11390069703404929}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4608680881529179, "cost": 3, "reward": 0.16086808815291787}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7880950086962799, "cost": 3, "reward": 0.48809500869627986}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.562035309325219, "cost": 1, "reward": 0.46203530932521897}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6828939114887076, "cost": 6, "reward": 0.0828939114887075}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.513156580654523, "cost": 6, "reward": -0.08684341934547712}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.30051012730365134, "cost": 1, "reward": 0.20051012730365134}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6324684290007676, "cost": 3, "reward": 0.33246842900076756}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6292600024749537, "cost": 3, "reward": 0.3292600024749537}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5950303878204553, "cost": 6, "reward": -0.004969612179544836}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5245686522104397, "cost": 6, "reward": -0.0754313477895604}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.12192325849049607, "cost": 1, "reward": 0.02192325849049606}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6148128081504399, "cost": 1, "reward": 0.51481280815044}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5962251943342338, "cost": 3, "reward": 0.2962251943342338}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4842906228871699, "cost": 3, "reward": 0.18429062288716985}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3325071712297766, "cost": 1, "reward": 0.23250717122977657}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.10035774707320494, "cost": 1, "reward": 0.0003577470732049337}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7182769094405907, "cost": 3, "reward": 0.4182769094405907}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5855734520285288, "cost": 3, "reward": 0.2855734520285288}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6818519430680436, "cost": 6, "reward": 0.08185194306804355}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5115071859798592, "cost": 6, "reward": -0.08849281402014086}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.20621861830000687, "cost": 1, "reward": 0.10621861830000687}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.42301775651989487, "cost": 1, "reward": 0.32301775651989484}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7310050212606356, "cost": 3, "reward": 0.43100502126063556}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5203269861459439, "cost": 3, "reward": 0.22032698614594382}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.34789551036478394, "cost": 1, "reward": 0.24789551036478394}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.28803759482663116, "cost": 1, "reward": 0.18803759482663115}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8986003355599851, "cost": 6, "reward": 0.298600335559985}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7123621466759905, "cost": 6, "reward": 0.11236214667599043}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5780843554665667, "cost": 3, "reward": 0.2780843554665666}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.44487077964499344, "cost": 3, "reward": 0.1448707796449934}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.13754112145189068, "cost": 1, "reward": 0.037541121451890674}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6270995187267978, "cost": 1, "reward": 0.5270995187267978}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7117753830888377, "cost": 6, "reward": 0.11177538308883761}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6806095301888979, "cost": 6, "reward": 0.08060953018889783}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.47338096475478686, "cost": 3, "reward": 0.17338096475478681}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.43381108547849745, "cost": 3, "reward": 0.1338110854784974}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7209433401694099, "cost": 3, "reward": 0.4209433401694098}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7001500665520445, "cost": 3, "reward": 0.40015006655204444}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2898878755313935, "cost": 1, "reward": 0.1898878755313935}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3480623837219129, "cost": 1, "reward": 0.2480623837219129}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4190768964857522, "cost": 6, "reward": -0.1809231035142479}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7543924330619558, "cost": 6, "reward": 0.15439243306195571}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7517508642568234, "cost": 6, "reward": 0.15175086425682327}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7374274190410803, "cost": 6, "reward": 0.13742741904108025}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3687295125778973, "cost": 1, "reward": 0.26872951257789734}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11201899327840925, "cost": 1, "reward": 0.012018993278409246}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7772875481255346, "cost": 6, "reward": 0.1772875481255345}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7546416574872066, "cost": 6, "reward": 0.15464165748720649}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2403439900417202, "cost": 1, "reward": 0.14034399004172018}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.23594576012215868, "cost": 1, "reward": 0.13594576012215867}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.47443617477928113, "cost": 3, "reward": 0.17443617477928108}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.739472070045039, "cost": 3, "reward": 0.43947207004503896}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6769558063325083, "cost": 3, "reward": 0.37695580633250825}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.20065069855478967, "cost": 1, "reward": 0.10065069855478967}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5991909977652542, "cost": 6, "reward": -0.0008090022347458925}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.2558663692097779, "cost": 3, "reward": -0.044133630790222145}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.481589060208793, "cost": 1, "reward": 0.381589060208793}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7574273758553396, "cost": 6, "reward": 0.1574273758553395}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4474329336059443, "cost": 3, "reward": 0.14743293360594428}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.42743857055324885, "cost": 3, "reward": 0.1274385705532488}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1573797122268057, "cost": 1, "reward": 0.057379712226805685}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6506863292757556, "cost": 1, "reward": 0.5506863292757557}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8172389538790878, "cost": 6, "reward": 0.21723895387908776}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7304120550311928, "cost": 6, "reward": 0.1304120550311927}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4756007395949863, "cost": 3, "reward": 0.17560073959498623}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4713168393430046, "cost": 3, "reward": 0.17131683934300457}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.40536782551322614, "cost": 1, "reward": 0.30536782551322617}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7447341262538175, "cost": 6, "reward": 0.14473412625381743}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7387568682053542, "cost": 6, "reward": 0.13875686820535416}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.18431125762638934, "cost": 1, "reward": 0.08431125762638933}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3986037908341574, "cost": 3, "reward": 0.09860379083415738}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6981659707474378, "cost": 3, "reward": 0.39816597074743776}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5840852286546075, "cost": 1, "reward": 0.48408522865460757}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.412902336386709, "cost": 1, "reward": 0.31290233638670895}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5955481378315179, "cost": 6, "reward": -0.004451862168482146}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.46121770172473286, "cost": 6, "reward": -0.13878229827526722}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8057349920311907, "cost": 3, "reward": 0.5057349920311907}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5545897378667397, "cost": 3, "reward": 0.25458973786673966}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.44421444376762215, "cost": 1, "reward": 0.3442144437676221}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2853024178254523, "cost": 1, "reward": 0.1853024178254523}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3965332649853105, "cost": 3, "reward": 0.09653326498531045}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7708083867815908, "cost": 3, "reward": 0.47080838678159076}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7389105679122782, "cost": 6, "reward": 0.13891056791227807}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5972705800138622, "cost": 6, "reward": -0.0027294199861378488}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.29004971776427513, "cost": 1, "reward": 0.19004971776427512}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11197451517672685, "cost": 1, "reward": 0.011974515176726847}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7959464533317, "cost": 3, "reward": 0.49594645333169995}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5335443944668342, "cost": 3, "reward": 0.23354439446683417}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6667785190555078, "cost": 6, "reward": 0.06677851905550769}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6929464228840507, "cost": 6, "reward": 0.09294642288405064}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.18878611837801873, "cost": 1, "reward": 0.08878611837801872}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4655505872140212, "cost": 1, "reward": 0.3655505872140212}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6253458197003633, "cost": 3, "reward": 0.32534581970036325}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5787305600547128, "cost": 3, "reward": 0.27873056005471275}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6560038158997552, "cost": 6, "reward": 0.056003815899755116}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4174576556011722, "cost": 6, "reward": -0.18254234439882788}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6974593282679216, "cost": 1, "reward": 0.5974593282679216}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3868497168826355, "cost": 1, "reward": 0.2868497168826355}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6177636650895582, "cost": 3, "reward": 0.3177636650895581}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4218366257070101, "cost": 3, "reward": 0.12183662570701004}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5924442805982231, "cost": 6, "reward": -0.007555719401777017}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8242631386632778, "cost": 6, "reward": 0.22426313866327774}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4027577723363168, "cost": 1, "reward": 0.30275777233631684}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2786886798413633, "cost": 1, "reward": 0.1786886798413633}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5279835364885465, "cost": 3, "reward": 0.2279835364885464}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3618255956300276, "cost": 3, "reward": 0.06182559563002754}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7941990088915221, "cost": 6, "reward": 0.19419900889152197}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6633193956186143, "cost": 6, "reward": 0.06331939561861422}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.20649256897489865, "cost": 1, "reward": 0.10649256897489864}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.205159383162892, "cost": 1, "reward": 0.105159383162892}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4239724907600638, "cost": 3, "reward": 0.12397249076006378}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8345999948498453, "cost": 3, "reward": 0.5345999948498452}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7100296619103784, "cost": 6, "reward": 0.11002966191037833}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6409415504412626, "cost": 6, "reward": 0.040941550441262464}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3993106972670637, "cost": 1, "reward": 0.2993106972670637}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.34116992435564075, "cost": 1, "reward": 0.24116992435564075}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6485127463272166, "cost": 3, "reward": 0.3485127463272165}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6152850927089871, "cost": 3, "reward": 0.3152850927089871}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6170557472593772, "cost": 6, "reward": 0.017055747259377085}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6174164020021432, "cost": 6, "reward": 0.017416402002143117}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.28623384774968486, "cost": 1, "reward": 0.18623384774968485}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.569670510990597, "cost": 1, "reward": 0.469670510990597}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.524118024029153, "cost": 3, "reward": 0.22411802402915293}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.40137167842419247, "cost": 3, "reward": 0.10137167842419242}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4571632668908513, "cost": 3, "reward": 0.15716326689085125}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.2786088048398746, "cost": 3, "reward": -0.021391195160125442}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7972704683720786, "cost": 6, "reward": 0.1972704683720785}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8120970110833334, "cost": 6, "reward": 0.21209701108333334}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2193389060365013, "cost": 1, "reward": 0.1193389060365013}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.24185339212040646, "cost": 1, "reward": 0.14185339212040646}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5504446223899375, "cost": 6, "reward": -0.04955537761006257}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8100875811012531, "cost": 6, "reward": 0.21008758110125303}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4730564887020082, "cost": 1, "reward": 0.37305648870200825}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.48402290742662174, "cost": 1, "reward": 0.3840229074266217}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.47564234101139746, "cost": 3, "reward": 0.17564234101139742}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2428617639545012, "cost": 1, "reward": 0.1428617639545012}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5725694044395918, "cost": 1, "reward": 0.47256940443959183}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5125393318098345, "cost": 3, "reward": 0.21253933180983442}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5776268364780834, "cost": 6, "reward": -0.02237316352191665}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6816838983066179, "cost": 6, "reward": 0.08168389830661782}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.41437751273581025, "cost": 3, "reward": 0.1143775127358102}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7075103660825792, "cost": 3, "reward": 0.4075103660825792}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5733906019290652, "cost": 1, "reward": 0.47339060192906524}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2549584772140951, "cost": 1, "reward": 0.1549584772140951}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6543876743440475, "cost": 6, "reward": 0.054387674344047454}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4445634984569341, "cost": 6, "reward": -0.15543650154306599}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6284317865040263, "cost": 3, "reward": 0.32843178650402627}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5980110623292475, "cost": 3, "reward": 0.29801106232924746}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6247696314139677, "cost": 6, "reward": 0.024769631413967597}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6489467263927686, "cost": 6, "reward": 0.048946726392768536}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3252951913485572, "cost": 1, "reward": 0.22529519134855722}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.550477744597173, "cost": 1, "reward": 0.45047774459717305}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5125278729831273, "cost": 1, "reward": 0.4125278729831273}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5674323152510554, "cost": 3, "reward": 0.2674323152510554}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.48705217435291004, "cost": 3, "reward": 0.18705217435291}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4674721231469665, "cost": 3, "reward": 0.16747212314696647}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6169400635457497, "cost": 3, "reward": 0.31694006354574966}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8126459800341603, "cost": 6, "reward": 0.21264598003416024}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6949147376537772, "cost": 6, "reward": 0.09491473765377711}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6958106023051008, "cost": 6, "reward": 0.09581060230510074}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.45987528204310635, "cost": 6, "reward": -0.14012471795689374}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.419562579068094, "cost": 1, "reward": 0.31956257906809404}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4251768625064719, "cost": 1, "reward": 0.32517686250647193}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5339042864058421, "cost": 3, "reward": 0.23390428640584204}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.39871134311713385, "cost": 3, "reward": 0.09871134311713381}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.38857086632571314, "cost": 3, "reward": 0.0885708663257131}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6530897864857668, "cost": 3, "reward": 0.3530897864857667}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5204857956224749, "cost": 1, "reward": 0.4204857956224749}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4211031718515931, "cost": 1, "reward": 0.3211031718515931}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5697546918647199, "cost": 6, "reward": -0.030245308135280147}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4399041308309912, "cost": 6, "reward": -0.16009586916900886}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5992388387398166, "cost": 1, "reward": 0.49923883873981667}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.42249777188547866, "cost": 1, "reward": 0.3224977718854787}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5503231288580499, "cost": 6, "reward": -0.049676871141950185}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6354404165985795, "cost": 6, "reward": 0.03544041659857944}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.43510089636413196, "cost": 3, "reward": 0.13510089636413192}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6178543338503462, "cost": 3, "reward": 0.3178543338503461}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3106877175828121, "cost": 1, "reward": 0.2106877175828121}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3999796811043505, "cost": 1, "reward": 0.29997968110435047}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6559386400415471, "cost": 6, "reward": 0.05593864004154703}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5224285032980053, "cost": 6, "reward": -0.07757149670199481}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8324339765731735, "cost": 6, "reward": 0.23243397657317344}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.734484220824783, "cost": 6, "reward": 0.13448422082478295}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5162799702471377, "cost": 3, "reward": 0.21627997024713763}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3620955717802057, "cost": 3, "reward": 0.06209557178020564}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.05711492340940938, "cost": 1, "reward": -0.042885076590590626}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5651692242581985, "cost": 1, "reward": 0.4651692242581985}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6990634388015778, "cost": 3, "reward": 0.3990634388015778}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4458812365624391, "cost": 3, "reward": 0.14588123656243907}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.16001177302286118, "cost": 1, "reward": 0.060011773022861176}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.22063501100702143, "cost": 1, "reward": 0.12063501100702143}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9105988897247458, "cost": 6, "reward": 0.3105988897247457}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6578249363928668, "cost": 6, "reward": 0.05782493639286668}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5772706603854088, "cost": 3, "reward": 0.2772706603854087}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3774483547798182, "cost": 3, "reward": 0.07744835477981815}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.24133458199995705, "cost": 1, "reward": 0.14133458199995705}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4207255776998915, "cost": 1, "reward": 0.3207255776998915}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6521789730280502, "cost": 6, "reward": 0.05217897302805008}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6435138093197086, "cost": 6, "reward": 0.043513809319708496}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.24196161615026424, "cost": 1, "reward": 0.14196161615026423}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.16590904293331432, "cost": 1, "reward": 0.06590904293331432}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.756034255392185, "cost": 3, "reward": 0.456034255392185}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5199098618556383, "cost": 3, "reward": 0.2199098618556382}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2702831654620429, "cost": 1, "reward": 0.1702831654620429}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.20842982226803713, "cost": 1, "reward": 0.10842982226803713}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4314405905157934, "cost": 6, "reward": -0.16855940948420667}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9125731282257359, "cost": 6, "reward": 0.3125731282257358}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6028512367511102, "cost": 3, "reward": 0.30285123675111014}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6479085872122172, "cost": 3, "reward": 0.3479085872122172}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.16251083245038123, "cost": 1, "reward": 0.06251083245038122}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2892011535498523, "cost": 1, "reward": 0.1892011535498523}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8984473739403429, "cost": 6, "reward": 0.2984473739403428}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8068468006864108, "cost": 6, "reward": 0.2068468006864107}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5922183418240103, "cost": 6, "reward": -0.007781658175989747}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5135726271233965, "cost": 6, "reward": -0.08642737287660363}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.414875174632086, "cost": 6, "reward": -0.18512482536791408}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8746459928277334, "cost": 6, "reward": 0.2746459928277333}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5706668928141941, "cost": 3, "reward": 0.2706668928141941}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.619391168000812, "cost": 3, "reward": 0.3193911680008119}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5755652936257443, "cost": 3, "reward": 0.2755652936257442}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.42788551192413526, "cost": 6, "reward": -0.17211448807586482}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8286835352425, "cost": 6, "reward": 0.22868353524249996}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5558926681362484, "cost": 3, "reward": 0.25589266813624834}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3216890487882041, "cost": 1, "reward": 0.22168904878820408}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.47544864514483476, "cost": 3, "reward": 0.17544864514483471}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.35800307467515957, "cost": 3, "reward": 0.05800307467515953}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5910517750323678, "cost": 1, "reward": 0.49105177503236785}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5901171211733865, "cost": 1, "reward": 0.49011712117338657}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.33547655098010715, "cost": 1, "reward": 0.23547655098010714}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.516987753851234, "cost": 6, "reward": -0.08301224614876612}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4058411887035256, "cost": 6, "reward": -0.1941588112964745}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4830315544420616, "cost": 1, "reward": 0.3830315544420616}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5040041068387272, "cost": 1, "reward": 0.40400410683872723}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.41135260242934774, "cost": 1, "reward": 0.3113526024293477}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3141347843773731, "cost": 1, "reward": 0.21413478437737307}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4117051187194597, "cost": 3, "reward": 0.11170511871945965}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6333208594841713, "cost": 3, "reward": 0.33332085948417123}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8200775725225128, "cost": 6, "reward": 0.2200775725225127}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5604723685733495, "cost": 6, "reward": -0.03952763142665061}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.21331446716148428, "cost": 1, "reward": 0.11331446716148427}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.23771220124051073, "cost": 1, "reward": 0.13771220124051073}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8161057746574548, "cost": 3, "reward": 0.5161057746574548}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6716904078129018, "cost": 3, "reward": 0.37169040781290175}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.21753055757494666, "cost": 1, "reward": 0.11753055757494665}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.23385113854863532, "cost": 1, "reward": 0.1338511385486353}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.43767092308429323, "cost": 6, "reward": -0.16232907691570686}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8017937046512004, "cost": 6, "reward": 0.20179370465120028}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3583205616422619, "cost": 1, "reward": 0.2583205616422619}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4952987040713465, "cost": 1, "reward": 0.3952987040713465}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.42968631892979525, "cost": 3, "reward": 0.1296863189297952}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.28826733935324067, "cost": 3, "reward": -0.011732660646759374}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9432038130626128, "cost": 6, "reward": 0.3432038130626127}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.827968097626894, "cost": 6, "reward": 0.22796809762689396}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5234427421580841, "cost": 3, "reward": 0.22344274215808402}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4196924374984443, "cost": 3, "reward": 0.11969243749844427}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5111740124672786, "cost": 6, "reward": -0.08882598753272153}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6939548388103098, "cost": 1, "reward": 0.5939548388103099}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8112369200457352, "cost": 6, "reward": 0.21123692004573513}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.44712489812848316, "cost": 1, "reward": 0.34712489812848313}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.37936121984791116, "cost": 3, "reward": 0.07936121984791111}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.49935235243418097, "cost": 3, "reward": 0.19935235243418092}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7288403840870188, "cost": 3, "reward": 0.42884038408701874}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6511973711547947, "cost": 3, "reward": 0.35119737115479466}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6165037120392203, "cost": 6, "reward": 0.016503712039220186}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5893427553585083, "cost": 6, "reward": -0.010657244641491759}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.48178598560050556, "cost": 6, "reward": -0.11821401439949453}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7997787414747847, "cost": 6, "reward": 0.19977874147478458}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6512412454879943, "cost": 3, "reward": 0.3512412454879943}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.36282240066777555, "cost": 1, "reward": 0.2628224006677755}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3029140440692317, "cost": 1, "reward": 0.20291404406923172}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3588775001658161, "cost": 3, "reward": 0.058877500165816055}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9170851106728717, "cost": 6, "reward": 0.3170851106728716}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7329277420070752, "cost": 6, "reward": 0.13292774200707513}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3014912081764261, "cost": 1, "reward": 0.2014912081764261}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.4081622264599962, "cost": 1, "reward": 0.30816222645999625}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11198375704045199, "cost": 1, "reward": 0.011983757040451987}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5728862307768596, "cost": 1, "reward": 0.47288623077685965}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5600389457028111, "cost": 3, "reward": 0.26003894570281105}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5897140115664659, "cost": 6, "reward": -0.010285988433534232}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1692342897642536, "cost": 1, "reward": 0.06923428976425358}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3287773501259804, "cost": 1, "reward": 0.2287773501259804}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.835071721874462, "cost": 6, "reward": 0.2350717218744619}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.43411061812579266, "cost": 1, "reward": 0.3341106181257927}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6544746992746331, "cost": 6, "reward": 0.054474699274633}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3466242061028679, "cost": 1, "reward": 0.24662420610286792}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.43363694145120646, "cost": 6, "reward": -0.16636305854879363}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6137623511900536, "cost": 3, "reward": 0.3137623511900536}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7106823860393651, "cost": 3, "reward": 0.410682386039365}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5292460717848975, "cost": 3, "reward": 0.22924607178489742}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5921122728528003, "cost": 3, "reward": 0.2921122728528003}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.42345102043104965, "cost": 3, "reward": 0.12345102043104961}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8398229350976528, "cost": 6, "reward": 0.23982293509765273}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7854640992532557, "cost": 6, "reward": 0.18546409925325558}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5078172171958242, "cost": 3, "reward": 0.20781721719582413}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5577950892322043, "cost": 3, "reward": 0.2577950892322043}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5048912488452234, "cost": 6, "reward": -0.09510875115477668}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8432760345230788, "cost": 3, "reward": 0.5432760345230787}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7154462221223664, "cost": 3, "reward": 0.41544622212236637}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6281814120386611, "cost": 6, "reward": 0.02818141203866098}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1973102807794066, "cost": 1, "reward": 0.0973102807794066}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.17270865496375876, "cost": 1, "reward": 0.07270865496375875}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.796262033588638, "cost": 6, "reward": 0.19626203358863792}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7960940654482772, "cost": 6, "reward": 0.19609406544827712}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4231384923423716, "cost": 3, "reward": 0.12313849234237156}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.49354838910700516, "cost": 3, "reward": 0.19354838910700511}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1725574477697971, "cost": 1, "reward": 0.07255744776979708}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6101806205394545, "cost": 1, "reward": 0.5101806205394546}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.848449330916145, "cost": 6, "reward": 0.24844933091614496}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6338086045663451, "cost": 6, "reward": 0.033808604566345046}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.39498528209340744, "cost": 1, "reward": 0.29498528209340746}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.12197133709612201, "cost": 1, "reward": 0.021971337096122007}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7211872440441834, "cost": 3, "reward": 0.4211872440441834}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7221623132398339, "cost": 3, "reward": 0.4221623132398339}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6777624034390715, "cost": 6, "reward": 0.07776240343907137}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6427062379518084, "cost": 6, "reward": 0.04270623795180828}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.2544983727289254, "cost": 3, "reward": -0.04550162727107465}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6969261793660626, "cost": 1, "reward": 0.5969261793660626}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6650957707154554, "cost": 3, "reward": 0.3650957707154554}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3303712045700031, "cost": 1, "reward": 0.23037120457000307}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5441272909424992, "cost": 6, "reward": -0.05587270905750086}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.38218932698136965, "cost": 3, "reward": 0.0821893269813696}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6351778468986686, "cost": 3, "reward": 0.3351778468986686}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8313444150792847, "cost": 6, "reward": 0.2313444150792846}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.28925144151432375, "cost": 1, "reward": 0.18925144151432374}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2205637626127332, "cost": 1, "reward": 0.12056376261273319}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.45039603580364496, "cost": 6, "reward": -0.14960396419635513}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8794901136801434, "cost": 6, "reward": 0.2794901136801433}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5054966598084939, "cost": 3, "reward": 0.20549665980849385}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5049017089354613, "cost": 3, "reward": 0.20490170893546122}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.34629327067959603, "cost": 1, "reward": 0.24629327067959603}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.24381172990545974, "cost": 1, "reward": 0.14381172990545973}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7663552867791672, "cost": 6, "reward": 0.1663552867791671}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6634022560038155, "cost": 6, "reward": 0.06340225600381544}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5681121403929628, "cost": 3, "reward": 0.2681121403929627}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.44487543133831187, "cost": 3, "reward": 0.14487543133831182}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1674286054705476, "cost": 1, "reward": 0.0674286054705476}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5842984674873728, "cost": 1, "reward": 0.4842984674873728}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6623814742177474, "cost": 6, "reward": 0.06238147421774731}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7354890381477768, "cost": 6, "reward": 0.13548903814777669}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.1578629856979667, "cost": 1, "reward": 0.05786298569796669}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.33534915710023927, "cost": 1, "reward": 0.23534915710023926}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6449521693406617, "cost": 3, "reward": 0.34495216934066164}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7395967349920848, "cost": 3, "reward": 0.43959673499208474}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6684359888362323, "cost": 6, "reward": 0.06843598883623225}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5693873797289253, "cost": 6, "reward": -0.03061262027107481}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.09543989506495171, "cost": 1, "reward": -0.004560104935048298}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9097572321152214, "cost": 6, "reward": 0.3097572321152213}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7045318662284734, "cost": 6, "reward": 0.10453186622847332}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5046928157582291, "cost": 3, "reward": 0.20469281575822906}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5836344567306322, "cost": 3, "reward": 0.28363445673063215}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.10790617021809468, "cost": 1, "reward": 0.007906170218094671}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8453483346974634, "cost": 3, "reward": 0.5453483346974634}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5420960731739713, "cost": 3, "reward": 0.2420960731739713}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2889407802755898, "cost": 1, "reward": 0.18894078027558978}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.391633705271045, "cost": 1, "reward": 0.29163370527104504}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4390676370197105, "cost": 6, "reward": -0.16093236298028957}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.852992224188105, "cost": 6, "reward": 0.25299222418810496}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5385311406558387, "cost": 1, "reward": 0.43853114065583876}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2145139634100276, "cost": 1, "reward": 0.11451396341002759}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5846163755716478, "cost": 3, "reward": 0.28461637557164776}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.38555891131261244, "cost": 3, "reward": 0.0855589113126124}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7958145525364893, "cost": 6, "reward": 0.19581455253648916}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6661290308832304, "cost": 3, "reward": 0.36612903088323034}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5463459349998268, "cost": 3, "reward": 0.2463459349998267}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5625542204499333, "cost": 6, "reward": -0.03744577955006678}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5741823526894382, "cost": 6, "reward": -0.02581764731056191}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7803712003054724, "cost": 6, "reward": 0.18037120030547227}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3504888500224068, "cost": 1, "reward": 0.25048885002240684}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.31982449630798143, "cost": 1, "reward": 0.21982449630798143}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6400631250186093, "cost": 6, "reward": 0.0400631250186092}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.41103423699668207, "cost": 6, "reward": -0.18896576300331802}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6686473572148425, "cost": 3, "reward": 0.36864735721484243}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5911370504430934, "cost": 3, "reward": 0.29113705044309335}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.42340090374266376, "cost": 1, "reward": 0.3234009037426637}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.25184443071062057, "cost": 1, "reward": 0.15184443071062056}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4676008819597831, "cost": 3, "reward": 0.16760088195978307}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8488833533680906, "cost": 3, "reward": 0.5488833533680906}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7509585979892248, "cost": 6, "reward": 0.15095859798922473}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5614571229865026, "cost": 6, "reward": -0.038542877013497456}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.4268284316689883, "cost": 1, "reward": 0.32682843166898834}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.12114481582110365, "cost": 1, "reward": 0.02114481582110364}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7347620526562683, "cost": 3, "reward": 0.4347620526562682}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3115820682359969, "cost": 1, "reward": 0.21158206823599687}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2118907044572036, "cost": 1, "reward": 0.11189070445720359}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.45891994007927017, "cost": 3, "reward": 0.15891994007927013}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4869994613830474, "cost": 6, "reward": -0.1130005386169527}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7767429234298386, "cost": 6, "reward": 0.17674292342983855}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6399712768478886, "cost": 3, "reward": 0.3399712768478885}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.41597557978487315, "cost": 3, "reward": 0.1159755797848731}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6463201610337892, "cost": 6, "reward": 0.04632016103378911}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4588288154454313, "cost": 3, "reward": 0.15882881544543126}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6255841116670967, "cost": 3, "reward": 0.32558411166709667}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5709509773700824, "cost": 3, "reward": 0.27095097737008234}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6121637521851195, "cost": 3, "reward": 0.3121637521851195}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.608934247361406, "cost": 6, "reward": 0.008934247361405911}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.05594905820915719, "cost": 1, "reward": -0.04405094179084282}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5512121648850706, "cost": 1, "reward": 0.45121216488507065}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6674070241772041, "cost": 6, "reward": 0.06740702417720401}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7028736690940374, "cost": 6, "reward": 0.10287366909403728}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.38376062396328037, "cost": 1, "reward": 0.2837606239632804}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.331067820919989, "cost": 1, "reward": 0.23106782091998898}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9119757575538041, "cost": 6, "reward": 0.311975757553804}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6877009386175729, "cost": 6, "reward": 0.08770093861757278}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2864199661096402, "cost": 1, "reward": 0.1864199661096402}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.41088158627223925, "cost": 1, "reward": 0.3108815862722393}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3555946846229082, "cost": 3, "reward": 0.055594684622908175}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6428715317368447, "cost": 3, "reward": 0.3428715317368447}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7170087471013932, "cost": 6, "reward": 0.11700874710139308}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6519276917110182, "cost": 6, "reward": 0.051927691711018076}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.44218528990424955, "cost": 1, "reward": 0.34218528990424957}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.0852200034462916, "cost": 1, "reward": -0.014779996553708402}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7941988178510528, "cost": 3, "reward": 0.4941988178510528}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5071907946252804, "cost": 3, "reward": 0.20719079462528034}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6367835367745809, "cost": 3, "reward": 0.33678353677458084}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5224752460614945, "cost": 3, "reward": 0.2224752460614945}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.14699633415381608, "cost": 1, "reward": 0.04699633415381607}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6463630505190385, "cost": 3, "reward": 0.3463630505190385}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.724199875669329, "cost": 3, "reward": 0.42419987566932893}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3170795802273116, "cost": 1, "reward": 0.21707958022731158}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.633078365276262, "cost": 6, "reward": 0.033078365276261956}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4703925112729477, "cost": 6, "reward": -0.1296074887270524}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7619722973587889, "cost": 6, "reward": 0.16197229735878882}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7575420329011484, "cost": 6, "reward": 0.15754203290114832}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.32487319035444134, "cost": 1, "reward": 0.22487319035444134}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.35808745553677845, "cost": 1, "reward": 0.2580874555367785}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5154596029265259, "cost": 6, "reward": -0.08454039707347416}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8566222742366063, "cost": 6, "reward": 0.2566222742366062}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7164874114718482, "cost": 3, "reward": 0.4164874114718482}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4397375168270367, "cost": 3, "reward": 0.13973751682703667}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.23809002662264506, "cost": 1, "reward": 0.13809002662264505}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.10677507050176277, "cost": 1, "reward": 0.006775070501762764}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.872512710084415, "cost": 6, "reward": 0.2725127100844149}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8269756075642641, "cost": 6, "reward": 0.22697560756426405}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.6312297738550299, "cost": 3, "reward": 0.33122977385502983}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5908007328605929, "cost": 3, "reward": 0.2908007328605928}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.08712010686359384, "cost": 1, "reward": -0.012879893136406168}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6646213034841418, "cost": 3, "reward": 0.3646213034841418}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6704952800411931, "cost": 3, "reward": 0.37049528004119303}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.25720698848514306, "cost": 1, "reward": 0.15720698848514306}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5002918961864454, "cost": 6, "reward": -0.09970810381355466}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.26485713932747135, "cost": 1, "reward": 0.16485713932747134}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6240545325348777, "cost": 1, "reward": 0.5240545325348778}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6564596202441529, "cost": 6, "reward": 0.05645962024415285}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7052025902494665, "cost": 6, "reward": 0.10520259024946643}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5565909361152208, "cost": 6, "reward": -0.043409063884779275}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.36444259290833014, "cost": 3, "reward": 0.0644425929083301}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8152886228260744, "cost": 6, "reward": 0.2152886228260743}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6695902607418701, "cost": 6, "reward": 0.06959026074187002}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.48299351587664535, "cost": 3, "reward": 0.1829935158766453}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3334858839248933, "cost": 1, "reward": 0.2334858839248933}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.3288042166123618, "cost": 1, "reward": 0.2288042166123618}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7924834810684791, "cost": 3, "reward": 0.49248348106847906}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5053187176710232, "cost": 3, "reward": 0.20531871767102317}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5060638357897571, "cost": 3, "reward": 0.20606383578975707}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5430106992119699, "cost": 3, "reward": 0.24301069921196983}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.08590393863038337, "cost": 1, "reward": -0.014096061369616636}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.46966007566804124, "cost": 1, "reward": 0.36966007566804127}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5637926216758197, "cost": 3, "reward": 0.2637926216758196}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.23553108784489357, "cost": 1, "reward": 0.13553108784489357}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4183866291400966, "cost": 3, "reward": 0.11838662914009657}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4275012256480183, "cost": 6, "reward": -0.1724987743519818}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4323202000454204, "cost": 1, "reward": 0.3323202000454204}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.8486725029786292, "cost": 6, "reward": 0.24867250297862908}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5557381704065536, "cost": 6, "reward": -0.04426182959344649}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5394595288647873, "cost": 6, "reward": -0.06054047113521277}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.09228665080419357, "cost": 1, "reward": -0.007713349195806435}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.48559513713919905, "cost": 1, "reward": 0.385595137139199}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7151802116335788, "cost": 6, "reward": 0.11518021163357872}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6295875506459312, "cost": 6, "reward": 0.029587550645931104}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.20618187413488842, "cost": 1, "reward": 0.10618187413488842}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2467256422730537, "cost": 1, "reward": 0.1467256422730537}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6963256479736064, "cost": 3, "reward": 0.39632564797360637}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7091234328711385, "cost": 6, "reward": 0.10912343287113846}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5942625497527614, "cost": 6, "reward": -0.005737450247238707}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5921594207804998, "cost": 6, "reward": -0.007840579219500321}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.40386511021057603, "cost": 6, "reward": -0.19613488978942406}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8687875112869641, "cost": 6, "reward": 0.268787511286964}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7673291492961282, "cost": 6, "reward": 0.16732914929612808}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.44616359336639283, "cost": 3, "reward": 0.14616359336639279}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.21129202117392287, "cost": 1, "reward": 0.11129202117392287}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.05805380872561933, "cost": 1, "reward": -0.04194619127438068}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7149763369563049, "cost": 3, "reward": 0.41497633695630487}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6686545284891644, "cost": 3, "reward": 0.36865452848916436}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5360122913248362, "cost": 3, "reward": 0.23601229132483614}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.47775778428812565, "cost": 3, "reward": 0.1777577842881256}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.30998286274955655, "cost": 1, "reward": 0.20998286274955655}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5271647864398346, "cost": 1, "reward": 0.4271647864398346}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5483588392391125, "cost": 1, "reward": 0.44835883923911257}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5912358852379609, "cost": 6, "reward": -0.008764114762039199}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5263818743626028, "cost": 6, "reward": -0.07361812563739734}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5006737407140164, "cost": 6, "reward": -0.09932625928598371}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9317945178128693, "cost": 6, "reward": 0.33179451781286917}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5816162331510396, "cost": 1, "reward": 0.48161623315103963}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.32133349966002117, "cost": 1, "reward": 0.22133349966002117}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.2961708413378563, "cost": 1, "reward": 0.1961708413378563}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.452637824621026, "cost": 3, "reward": 0.15263782462102593}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8377292480825741, "cost": 3, "reward": 0.537729248082574}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5579692143542869, "cost": 3, "reward": 0.2579692143542869}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.616079777915227, "cost": 3, "reward": 0.3160797779152269}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.42558665251606187, "cost": 3, "reward": 0.12558665251606183}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.36614664669849095, "cost": 3, "reward": 0.06614664669849091}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.49023122786540335, "cost": 1, "reward": 0.3902312278654033}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4239674826438721, "cost": 1, "reward": 0.3239674826438721}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6282822974382325, "cost": 6, "reward": 0.028282297438232407}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5453465820113765, "cost": 6, "reward": -0.054653417988623554}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5339152055731072, "cost": 6, "reward": -0.06608479442689286}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8707676316702294, "cost": 6, "reward": 0.2707676316702293}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3274249432539357, "cost": 1, "reward": 0.22742494325393567}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3441103850113875, "cost": 1, "reward": 0.24411038501138752}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5834193123872327, "cost": 3, "reward": 0.2834193123872326}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3403760809169125, "cost": 3, "reward": 0.04037608091691247}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.9133115761336508, "cost": 6, "reward": 0.3133115761336507}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7862950474094906, "cost": 6, "reward": 0.18629504740949054}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.592907242400629, "cost": 3, "reward": 0.29290724240062893}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.41939238620564545, "cost": 3, "reward": 0.1193923862056454}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4575278831704078, "cost": 3, "reward": 0.15752788317040778}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7721965026458895, "cost": 3, "reward": 0.4721965026458894}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5175738282729041, "cost": 1, "reward": 0.4175738282729041}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.29812822159737523, "cost": 1, "reward": 0.19812822159737523}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.44240181092134157, "cost": 1, "reward": 0.3424018109213416}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.213166864601938, "cost": 1, "reward": 0.113166864601938}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7823099034208579, "cost": 6, "reward": 0.18230990342085784}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6890175393996425, "cost": 6, "reward": 0.08901753939964241}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5992694923967865, "cost": 3, "reward": 0.29926949239678646}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3568828036333719, "cost": 3, "reward": 0.05688280363337184}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5938140186332089, "cost": 6, "reward": -0.00618598136679116}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6402139807997197, "cost": 1, "reward": 0.5402139807997197}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6818577795397875, "cost": 6, "reward": 0.08185777953978746}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6183021088518326, "cost": 6, "reward": 0.018302108851832477}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6890818887200202, "cost": 6, "reward": 0.0890818887200201}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1359283034657245, "cost": 1, "reward": 0.03592830346572448}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7678455907684767, "cost": 3, "reward": 0.46784559076847665}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.634609769195479, "cost": 3, "reward": 0.3346097691954789}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.2111899725770942, "cost": 1, "reward": 0.1111899725770942}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3358727480610245, "cost": 1, "reward": 0.2358727480610245}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3265290025132903, "cost": 3, "reward": 0.026529002513290267}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7139063944535564, "cost": 3, "reward": 0.41390639445355637}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.31212768470688046, "cost": 1, "reward": 0.21212768470688045}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.35918012418481265, "cost": 1, "reward": 0.2591801241848126}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5251056492654375, "cost": 3, "reward": 0.2251056492654374}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4720840920442313, "cost": 3, "reward": 0.17208409204423125}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7603515152490022, "cost": 6, "reward": 0.16035151524900215}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7979805860495423, "cost": 6, "reward": 0.19798058604954216}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.329987860093835, "cost": 1, "reward": 0.229987860093835}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5459295715332342, "cost": 6, "reward": -0.05407042846676591}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5412047039394512, "cost": 6, "reward": -0.058795296060548896}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.650405872937366, "cost": 1, "reward": 0.550405872937366}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5904726661301186, "cost": 3, "reward": 0.2904726661301186}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5355751181537884, "cost": 3, "reward": 0.2355751181537884}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.23175023820663676, "cost": 1, "reward": 0.13175023820663676}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.4730456693786892, "cost": 3, "reward": 0.17304566937868915}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7167458703763283, "cost": 3, "reward": 0.41674587037632826}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4009163909631799, "cost": 1, "reward": 0.3009163909631799}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5735542908650633, "cost": 6, "reward": -0.026445709134936823}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6108151560318313, "cost": 6, "reward": 0.010815156031831252}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.14863719739660952, "cost": 1, "reward": 0.048637197396609516}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5232765937424357, "cost": 1, "reward": 0.42327659374243576}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6923105844760716, "cost": 6, "reward": 0.09231058447607154}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5853553247218213, "cost": 6, "reward": -0.01464467527817881}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.21607295007882554, "cost": 1, "reward": 0.11607295007882554}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2563118281105393, "cost": 1, "reward": 0.1563118281105393}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8567570953755538, "cost": 6, "reward": 0.2567570953755537}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7448045689900027, "cost": 6, "reward": 0.1448045689900026}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5665764533185205, "cost": 3, "reward": 0.2665764533185204}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.37855131149941224, "cost": 3, "reward": 0.07855131149941219}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.49856118691444695, "cost": 6, "reward": -0.10143881308555314}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8612119116751867, "cost": 6, "reward": 0.26121191167518665}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5232498303085235, "cost": 3, "reward": 0.2232498303085234}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5389631318270802, "cost": 3, "reward": 0.23896313182708018}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5047140548162958, "cost": 3, "reward": 0.2047140548162958}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.13303418955009905, "cost": 1, "reward": 0.03303418955009904}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5141855459234453, "cost": 1, "reward": 0.41418554592344536}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5001821856858996, "cost": 3, "reward": 0.20018218568589952}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.3752655137146554, "cost": 1, "reward": 0.27526551371465535}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3271357523156976, "cost": 1, "reward": 0.22713575231569758}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5714876308685468, "cost": 6, "reward": -0.028512369131453275}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5285980402325695, "cost": 1, "reward": 0.42859804023256953}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.3066961855654037, "cost": 1, "reward": 0.20669618556540367}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5517217765946734, "cost": 6, "reward": -0.048278223405326726}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5679797396187766, "cost": 3, "reward": 0.2679797396187765}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.3348282283924965, "cost": 3, "reward": 0.03482822839249644}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.916407820804961, "cost": 6, "reward": 0.3164078208049609}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7826036059708734, "cost": 6, "reward": 0.18260360597087333}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4743862865905571, "cost": 1, "reward": 0.37438628659055706}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.3100191469295466, "cost": 1, "reward": 0.21001914692954657}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.38246456273336493, "cost": 3, "reward": 0.08246456273336489}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.74747710430052, "cost": 3, "reward": 0.4474771043005199}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7198303200337872, "cost": 6, "reward": 0.11983032003378713}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.7326900964166392, "cost": 6, "reward": 0.1326900964166391}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5803384517509358, "cost": 3, "reward": 0.28033845175093575}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.21649637621251716, "cost": 1, "reward": 0.11649637621251716}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.6123789675792591, "cost": 1, "reward": 0.5123789675792592}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7141679735150875, "cost": 3, "reward": 0.4141679735150875}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6481485738432371, "cost": 6, "reward": 0.04814857384323701}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.6386894021125834, "cost": 6, "reward": 0.038689402112583315}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W2", "quality": 0.45331080435237014, "cost": 3, "reward": 0.1533108043523701}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7363328988551585, "cost": 3, "reward": 0.43633289885515847}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.5037912647557419, "cost": 1, "reward": 0.4037912647557419}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.42571575937101197, "cost": 1, "reward": 0.32571575937101194}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5144046840603967, "cost": 6, "reward": -0.08559531593960334}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.5252297064265176, "cost": 6, "reward": -0.07477029357348253}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.8254914356791034, "cost": 6, "reward": 0.22549143567910335}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.6676493657956312, "cost": 6, "reward": 0.06764936579563108}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.5396168267537909, "cost": 3, "reward": 0.2396168267537908}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4018434033856857, "cost": 3, "reward": 0.10184340338568565}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1523930970892895, "cost": 1, "reward": 0.05239309708928949}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.7735029759457692, "cost": 3, "reward": 0.4735029759457692}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.6171776082104774, "cost": 3, "reward": 0.31717760821047736}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.22779574746046072, "cost": 1, "reward": 0.1277957474604607}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.23759881761961676, "cost": 1, "reward": 0.13759881761961676}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2045081985671814, "cost": 1, "reward": 0.10450819856718138}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7711234271610379, "cost": 6, "reward": 0.1711234271610378}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5363259327568873, "cost": 3, "reward": 0.2363259327568873}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.47937685662796276, "cost": 3, "reward": 0.1793768566279627}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5472895436334486, "cost": 6, "reward": -0.05271045636655147}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.31979294691854887, "cost": 1, "reward": 0.21979294691854886}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.599779583873278, "cost": 1, "reward": 0.49977958387327803}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.5761099639450207, "cost": 3, "reward": 0.27610996394502063}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4633057664426346, "cost": 3, "reward": 0.16330576644263456}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5612969045231155, "cost": 6, "reward": -0.03870309547688455}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4115123932439809, "cost": 6, "reward": -0.18848760675601917}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.47368602612452265, "cost": 1, "reward": 0.3736860261245226}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.4115538076808004, "cost": 1, "reward": 0.31155380768080043}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6356309026831721, "cost": 6, "reward": 0.03563090268317204}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.4428235589335143, "cost": 3, "reward": 0.14282355893351428}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.20455601874889995, "cost": 1, "reward": 0.10455601874889994}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.8125656823450133, "cost": 3, "reward": 0.5125656823450132}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W1", "quality": 0.497369337617266, "cost": 1, "reward": 0.397369337617266}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W1", "quality": 0.4190825113882037, "cost": 1, "reward": 0.31908251138820365}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.5328924432653195, "cost": 3, "reward": 0.23289244326531944}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.2320620050869151, "cost": 1, "reward": 0.1320620050869151}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W2", "quality": 0.6591810912430668, "cost": 3, "reward": 0.35918109124306674}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.829726482911857, "cost": 6, "reward": 0.22972648291185693}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.5626865943872752, "cost": 6, "reward": -0.03731340561272489}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.5936235985141948, "cost": 6, "reward": -0.006376401485805316}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.1250493359679724, "cost": 1, "reward": 0.025049335967972403}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.5668553866814008, "cost": 1, "reward": 0.4668553866814008}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W2", "quality": 0.7009368607422178, "cost": 3, "reward": 0.4009368607422178}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.4095606894166281, "cost": 3, "reward": 0.10956068941662805}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W3", "quality": 0.615911342694062, "cost": 6, "reward": 0.015911342694061914}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W3", "quality": 0.4955765942621033, "cost": 6, "reward": -0.10442340573789677}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W3", "quality": 0.7739553378713319, "cost": 6, "reward": 0.17395533787133177}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7607746933882084, "cost": 6, "reward": 0.16077469338820827}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W2", "quality": 0.47891295319745103, "cost": 3, "reward": 0.17891295319745099}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W2", "quality": 0.3958370288288179, "cost": 3, "reward": 0.09583702882881784}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.11602855840319487, "cost": 1, "reward": 0.016028558403194865}
+{"task_text": "What is the capital of India?", "task_type": "qa", "workflow": "W1", "quality": 0.4733017326729978, "cost": 1, "reward": 0.3733017326729978}
+{"task_text": "Explain the difference between lists and tuples in Python.", "task_type": "explanation", "workflow": "W3", "quality": 0.7559860617813303, "cost": 6, "reward": 0.15598606178133023}
+{"task_text": "Write a Python function to check if a number is prime.", "task_type": "code", "workflow": "W3", "quality": 0.6010324340038729, "cost": 6, "reward": 0.001032434003872762}
+{"task_text": "Solve this step by step: If x + 3 = 7, what is x?", "task_type": "reasoning", "workflow": "W1", "quality": 0.30623570802157574, "cost": 1, "reward": 0.20623570802157573}
+{"task_text": "Design a simple system to detect fradulent transaction.", "task_type": "design", "workflow": "W1", "quality": 0.349142084363136, "cost": 1, "reward": 0.24914208436313598}
