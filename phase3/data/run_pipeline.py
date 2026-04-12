@@ -13,6 +13,7 @@ Output: data/runs/phase3_run_001.jsonl
 """
 
 import random
+import hashlib 
 import time
 import sys
 import os
@@ -29,7 +30,7 @@ from data.logger import JSONLLogger
 # ---------------------------------------------------------------------------
 
 SEED = 42
-N_EPISODES = 500
+N_EPISODES = 1500
 BATCH_SIZE = 50
 LAMBDA_VALUE = 0.5  # Fixed trade-off weight for this run
 OUTPUT_FILE = Path(__file__).parent / "runs" / "phase3_run_001.jsonl"
@@ -47,14 +48,16 @@ FEATURE_DIM = 16
 # Mock helpers
 # ---------------------------------------------------------------------------
 
-def _mock_feature_vector(task_text: str, rng: random.Random) -> list:
+def _mock_feature_vector(task_text: str, task_id: str) -> list:
     """
-    Generate a deterministic mock feature vector.
-    Uses text-length statistics + random noise seeded by rng.
+    Deterministic mock feature vector seeded by task_id.
+    The same task always produces the same vector regardless of call order.
     """
+    seed = int(hashlib.md5(task_id.encode()).hexdigest(), 16) % (2 ** 32)
+    task_rng = random.Random(seed)
     length_norm = min(len(task_text) / 500.0, 1.0)
     word_count_norm = min(len(task_text.split()) / 100.0, 1.0)
-    base = [length_norm, word_count_norm] + [rng.random() for _ in range(FEATURE_DIM - 2)]
+    base = [length_norm, word_count_norm] + [task_rng.random() for _ in range(FEATURE_DIM - 2)]
     return [round(v, 6) for v in base]
 
 
@@ -111,14 +114,14 @@ def run(n_episodes: int = N_EPISODES, output_file: Path = OUTPUT_FILE) -> None:
 
     with JSONLLogger(output_file, mode="w") as logger:
         # Evaluate all 3 workflows per task
-        n_tasks_needed = (n_episodes + 2) // len(WORKFLOWS)
+        n_tasks_needed = 500
         for batch in task_sampler(n=n_tasks_needed, batch_size=BATCH_SIZE, seed=SEED):
             for task in batch:
                 for workflow_id in WORKFLOWS:
                     if episode_id >= n_episodes:
                         break
 
-                    feature_vector = _mock_feature_vector(task["task_text"], rng)
+                    feature_vector = _mock_feature_vector(task["task_text"], task["task_id"])
                     quality_score = _mock_quality_score(workflow_id, rng)
                     cost_tokens = _mock_cost_tokens(rng)
                     latency_ms = _mock_latency_ms(rng)

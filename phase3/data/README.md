@@ -80,14 +80,26 @@ Datasets are cached locally under `~/.cache/huggingface/datasets/` by default.
 > deterministic, reproducible outputs. Running any script twice with the same
 > seed will always produce identical results.
 
-### Step 1 — Run the 500-episode simulation
+### Step 1a — Run the 500-episode simulation
 
 ```bash
 # From the project root (task-aware-llm-orchestration/)
 python phase3/data/run_pipeline.py
 ```
 
-Output: `phase3/data/runs/phase3_run_001.jsonl` (500 lines, one JSON object per episode)
+Output: `phase3/data/runs/phase3_run_001.jsonl` (1500 lines — 500 tasks × 3 workflows, not committed)
+
+### Step 1b — Run the bandit training log
+
+```bash
+python phase3/data/run_bandit_training.py
+```
+
+Output: `phase3/data/runs/phase3_bandit_train.jsonl` (500 lines — one routing decision per task, not committed)
+
+This is the training log the Phase 4 LinUCB policy learns from. It makes one
+random routing decision per task rather than exhaustively evaluating all three
+workflows.
 
 ### Step 2 — Compute retroactive difficulty labels
 
