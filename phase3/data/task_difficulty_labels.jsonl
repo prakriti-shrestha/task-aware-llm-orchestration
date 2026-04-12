@@ -1,0 +1,167 @@
+{"task_id": "arc_train_00000", "task_class": "reasoning", "mean_quality_W1": 0.614, "mean_quality_W3": 0.8924, "gap": 0.2784, "difficulty": "medium"}
+{"task_id": "arc_train_00005", "task_class": "reasoning", "mean_quality_W1": 0.5271, "mean_quality_W3": 0.8802, "gap": 0.3531, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00008", "task_class": "reasoning", "mean_quality_W1": 0.6286, "mean_quality_W3": 0.9479, "gap": 0.3193, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00014", "task_class": "reasoning", "mean_quality_W1": 0.6526, "mean_quality_W3": 0.9268, "gap": 0.2742, "difficulty": "medium"}
+{"task_id": "arc_train_00015", "task_class": "reasoning", "mean_quality_W1": 0.6251, "mean_quality_W3": 0.8399, "gap": 0.2148, "difficulty": "medium"}
+{"task_id": "arc_train_00018", "task_class": "reasoning", "mean_quality_W1": 0.5032, "mean_quality_W3": 0.8513, "gap": 0.3481, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00019", "task_class": "reasoning", "mean_quality_W1": 0.6349, "mean_quality_W3": 0.8136, "gap": 0.1787, "difficulty": "medium"}
+{"task_id": "arc_train_00021", "task_class": "reasoning", "mean_quality_W1": 0.4888, "mean_quality_W3": 0.9036, "gap": 0.4148, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00026", "task_class": "reasoning", "mean_quality_W1": 0.5031, "mean_quality_W3": 0.8799, "gap": 0.3768, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00028", "task_class": "reasoning", "mean_quality_W1": 0.598, "mean_quality_W3": 0.974, "gap": 0.376, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00036", "task_class": "reasoning", "mean_quality_W1": 0.6193, "mean_quality_W3": 0.9612, "gap": 0.3419, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00041", "task_class": "reasoning", "mean_quality_W1": 0.6307, "mean_quality_W3": 0.9614, "gap": 0.3307, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00044", "task_class": "reasoning", "mean_quality_W1": 0.5353, "mean_quality_W3": 1.0, "gap": 0.4647, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00047", "task_class": "reasoning", "mean_quality_W1": 0.5652, "mean_quality_W3": 0.8865, "gap": 0.3213, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00048", "task_class": "reasoning", "mean_quality_W1": 0.6757, "mean_quality_W3": 0.9375, "gap": 0.2618, "difficulty": "medium"}
+{"task_id": "arc_train_00050", "task_class": "reasoning", "mean_quality_W1": 0.644, "mean_quality_W3": 0.9455, "gap": 0.3015, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00056", "task_class": "reasoning", "mean_quality_W1": 0.6222, "mean_quality_W3": 0.8939, "gap": 0.2717, "difficulty": "medium"}
+{"task_id": "arc_train_00068", "task_class": "reasoning", "mean_quality_W1": 0.5724, "mean_quality_W3": 0.8689, "gap": 0.2965, "difficulty": "medium"}
+{"task_id": "arc_train_00070", "task_class": "reasoning", "mean_quality_W1": 0.6368, "mean_quality_W3": 0.9444, "gap": 0.3076, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00071", "task_class": "reasoning", "mean_quality_W1": 0.5662, "mean_quality_W3": 0.912, "gap": 0.3458, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00072", "task_class": "reasoning", "mean_quality_W1": 0.5735, "mean_quality_W3": 0.8608, "gap": 0.2873, "difficulty": "medium"}
+{"task_id": "arc_train_00074", "task_class": "reasoning", "mean_quality_W1": 0.655, "mean_quality_W3": 0.9131, "gap": 0.2581, "difficulty": "medium"}
+{"task_id": "arc_train_00077", "task_class": "reasoning", "mean_quality_W1": 0.6363, "mean_quality_W3": 0.9376, "gap": 0.3013, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00092", "task_class": "reasoning", "mean_quality_W1": 0.5522, "mean_quality_W3": 0.9096, "gap": 0.3574, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00103", "task_class": "reasoning", "mean_quality_W1": 0.4623, "mean_quality_W3": 0.9861, "gap": 0.5238, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00105", "task_class": "reasoning", "mean_quality_W1": 0.64, "mean_quality_W3": 0.835, "gap": 0.195, "difficulty": "medium"}
+{"task_id": "arc_train_00120", "task_class": "reasoning", "mean_quality_W1": 0.5888, "mean_quality_W3": 0.9152, "gap": 0.3264, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00122", "task_class": "reasoning", "mean_quality_W1": 0.7219, "mean_quality_W3": 0.8928, "gap": 0.1709, "difficulty": "medium"}
+{"task_id": "arc_train_00129", "task_class": "reasoning", "mean_quality_W1": 0.5907, "mean_quality_W3": 0.9623, "gap": 0.3716, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00132", "task_class": "reasoning", "mean_quality_W1": 0.6376, "mean_quality_W3": 0.8799, "gap": 0.2423, "difficulty": "medium"}
+{"task_id": "arc_train_00134", "task_class": "reasoning", "mean_quality_W1": 0.5017, "mean_quality_W3": 0.8484, "gap": 0.3467, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00135", "task_class": "reasoning", "mean_quality_W1": 0.6094, "mean_quality_W3": 0.9859, "gap": 0.3765, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00137", "task_class": "reasoning", "mean_quality_W1": 0.5741, "mean_quality_W3": 0.9881, "gap": 0.414, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00144", "task_class": "reasoning", "mean_quality_W1": 0.6349, "mean_quality_W3": 0.9419, "gap": 0.307, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00147", "task_class": "reasoning", "mean_quality_W1": 0.5806, "mean_quality_W3": 0.8312, "gap": 0.2506, "difficulty": "medium"}
+{"task_id": "arc_train_00155", "task_class": "reasoning", "mean_quality_W1": 0.5965, "mean_quality_W3": 0.8736, "gap": 0.2771, "difficulty": "medium"}
+{"task_id": "arc_train_00157", "task_class": "reasoning", "mean_quality_W1": 0.6294, "mean_quality_W3": 0.9406, "gap": 0.3112, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00159", "task_class": "reasoning", "mean_quality_W1": 0.655, "mean_quality_W3": 0.9074, "gap": 0.2524, "difficulty": "medium"}
+{"task_id": "arc_train_00179", "task_class": "reasoning", "mean_quality_W1": 0.5836, "mean_quality_W3": 0.8307, "gap": 0.2471, "difficulty": "medium"}
+{"task_id": "arc_train_00187", "task_class": "reasoning", "mean_quality_W1": 0.5436, "mean_quality_W3": 0.8909, "gap": 0.3473, "difficulty": "high difficulty"}
+{"task_id": "arc_train_00193", "task_class": "reasoning", "mean_quality_W1": 0.6224, "mean_quality_W3": 0.8275, "gap": 0.2051, "difficulty": "medium"}
+{"task_id": "arc_train_00196", "task_class": "reasoning", "mean_quality_W1": 0.7034, "mean_quality_W3": 0.8938, "gap": 0.1904, "difficulty": "medium"}
+{"task_id": "arc_train_00199", "task_class": "reasoning", "mean_quality_W1": 0.5268, "mean_quality_W3": 0.9376, "gap": 0.4108, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00002", "task_class": "reasoning", "mean_quality_W1": 0.6122, "mean_quality_W3": 0.9537, "gap": 0.3415, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00005", "task_class": "reasoning", "mean_quality_W1": 0.6423, "mean_quality_W3": 0.9726, "gap": 0.3303, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00008", "task_class": "reasoning", "mean_quality_W1": 0.7031, "mean_quality_W3": 0.9076, "gap": 0.2045, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00009", "task_class": "reasoning", "mean_quality_W1": 0.6387, "mean_quality_W3": 0.9471, "gap": 0.3084, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00010", "task_class": "reasoning", "mean_quality_W1": 0.5586, "mean_quality_W3": 0.9165, "gap": 0.3579, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00013", "task_class": "reasoning", "mean_quality_W1": 0.6502, "mean_quality_W3": 0.9114, "gap": 0.2612, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00015", "task_class": "reasoning", "mean_quality_W1": 0.595, "mean_quality_W3": 0.9289, "gap": 0.3339, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00016", "task_class": "reasoning", "mean_quality_W1": 0.5135, "mean_quality_W3": 0.9926, "gap": 0.4791, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00017", "task_class": "reasoning", "mean_quality_W1": 0.5929, "mean_quality_W3": 0.9931, "gap": 0.4002, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00024", "task_class": "reasoning", "mean_quality_W1": 0.5766, "mean_quality_W3": 0.9436, "gap": 0.367, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00028", "task_class": "reasoning", "mean_quality_W1": 0.6139, "mean_quality_W3": 0.8701, "gap": 0.2562, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00033", "task_class": "reasoning", "mean_quality_W1": 0.5232, "mean_quality_W3": 0.8997, "gap": 0.3765, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00036", "task_class": "reasoning", "mean_quality_W1": 0.5631, "mean_quality_W3": 0.8599, "gap": 0.2968, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00039", "task_class": "reasoning", "mean_quality_W1": 0.5519, "mean_quality_W3": 0.807, "gap": 0.2551, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00040", "task_class": "reasoning", "mean_quality_W1": 0.6573, "mean_quality_W3": 0.9113, "gap": 0.254, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00042", "task_class": "reasoning", "mean_quality_W1": 0.5688, "mean_quality_W3": 0.9342, "gap": 0.3654, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00058", "task_class": "reasoning", "mean_quality_W1": 0.5984, "mean_quality_W3": 0.9218, "gap": 0.3234, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00064", "task_class": "reasoning", "mean_quality_W1": 0.5794, "mean_quality_W3": 0.8707, "gap": 0.2913, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00074", "task_class": "reasoning", "mean_quality_W1": 0.5732, "mean_quality_W3": 0.9443, "gap": 0.3711, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00078", "task_class": "reasoning", "mean_quality_W1": 0.6137, "mean_quality_W3": 0.8966, "gap": 0.2829, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00086", "task_class": "reasoning", "mean_quality_W1": 0.5764, "mean_quality_W3": 0.9073, "gap": 0.3309, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00088", "task_class": "reasoning", "mean_quality_W1": 0.5322, "mean_quality_W3": 0.8496, "gap": 0.3174, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00092", "task_class": "reasoning", "mean_quality_W1": 0.5285, "mean_quality_W3": 0.8688, "gap": 0.3403, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00101", "task_class": "reasoning", "mean_quality_W1": 0.5871, "mean_quality_W3": 0.8728, "gap": 0.2857, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00105", "task_class": "reasoning", "mean_quality_W1": 0.5414, "mean_quality_W3": 0.9782, "gap": 0.4368, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00115", "task_class": "reasoning", "mean_quality_W1": 0.6503, "mean_quality_W3": 0.884, "gap": 0.2337, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00124", "task_class": "reasoning", "mean_quality_W1": 0.5524, "mean_quality_W3": 0.8888, "gap": 0.3364, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00129", "task_class": "reasoning", "mean_quality_W1": 0.5351, "mean_quality_W3": 0.9227, "gap": 0.3876, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00137", "task_class": "reasoning", "mean_quality_W1": 0.6501, "mean_quality_W3": 0.9675, "gap": 0.3174, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00138", "task_class": "reasoning", "mean_quality_W1": 0.5862, "mean_quality_W3": 0.8477, "gap": 0.2615, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00149", "task_class": "reasoning", "mean_quality_W1": 0.5161, "mean_quality_W3": 0.9307, "gap": 0.4146, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00150", "task_class": "reasoning", "mean_quality_W1": 0.6233, "mean_quality_W3": 0.8485, "gap": 0.2252, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00152", "task_class": "reasoning", "mean_quality_W1": 0.5427, "mean_quality_W3": 0.9183, "gap": 0.3756, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00164", "task_class": "reasoning", "mean_quality_W1": 0.5515, "mean_quality_W3": 0.8759, "gap": 0.3244, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00171", "task_class": "reasoning", "mean_quality_W1": 0.5605, "mean_quality_W3": 0.9835, "gap": 0.423, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00177", "task_class": "reasoning", "mean_quality_W1": 0.531, "mean_quality_W3": 0.8312, "gap": 0.3002, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00180", "task_class": "reasoning", "mean_quality_W1": 0.6002, "mean_quality_W3": 0.945, "gap": 0.3448, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00184", "task_class": "reasoning", "mean_quality_W1": 0.5348, "mean_quality_W3": 0.8537, "gap": 0.3189, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00185", "task_class": "reasoning", "mean_quality_W1": 0.5517, "mean_quality_W3": 0.9224, "gap": 0.3707, "difficulty": "high difficulty"}
+{"task_id": "gsm8k_train_00190", "task_class": "reasoning", "mean_quality_W1": 0.6058, "mean_quality_W3": 0.8327, "gap": 0.2269, "difficulty": "medium"}
+{"task_id": "gsm8k_train_00193", "task_class": "reasoning", "mean_quality_W1": 0.5792, "mean_quality_W3": 0.8642, "gap": 0.285, "difficulty": "medium"}
+{"task_id": "humaneval_test_00000", "task_class": "code", "mean_quality_W1": 0.5905, "mean_quality_W3": 0.8649, "gap": 0.2744, "difficulty": "medium"}
+{"task_id": "humaneval_test_00007", "task_class": "code", "mean_quality_W1": 0.5568, "mean_quality_W3": 0.9063, "gap": 0.3495, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00012", "task_class": "code", "mean_quality_W1": 0.6022, "mean_quality_W3": 0.8518, "gap": 0.2496, "difficulty": "medium"}
+{"task_id": "humaneval_test_00015", "task_class": "code", "mean_quality_W1": 0.6089, "mean_quality_W3": 0.8897, "gap": 0.2808, "difficulty": "medium"}
+{"task_id": "humaneval_test_00027", "task_class": "code", "mean_quality_W1": 0.6678, "mean_quality_W3": 0.8839, "gap": 0.2161, "difficulty": "medium"}
+{"task_id": "humaneval_test_00036", "task_class": "code", "mean_quality_W1": 0.6095, "mean_quality_W3": 0.8822, "gap": 0.2727, "difficulty": "medium"}
+{"task_id": "humaneval_test_00037", "task_class": "code", "mean_quality_W1": 0.5901, "mean_quality_W3": 0.8165, "gap": 0.2264, "difficulty": "medium"}
+{"task_id": "humaneval_test_00039", "task_class": "code", "mean_quality_W1": 0.6103, "mean_quality_W3": 0.9245, "gap": 0.3142, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00042", "task_class": "code", "mean_quality_W1": 0.6141, "mean_quality_W3": 0.8509, "gap": 0.2368, "difficulty": "medium"}
+{"task_id": "humaneval_test_00047", "task_class": "code", "mean_quality_W1": 0.6247, "mean_quality_W3": 0.9152, "gap": 0.2905, "difficulty": "medium"}
+{"task_id": "humaneval_test_00051", "task_class": "code", "mean_quality_W1": 0.539, "mean_quality_W3": 0.9377, "gap": 0.3987, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00056", "task_class": "code", "mean_quality_W1": 0.5183, "mean_quality_W3": 0.8409, "gap": 0.3226, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00063", "task_class": "code", "mean_quality_W1": 0.6195, "mean_quality_W3": 0.862, "gap": 0.2425, "difficulty": "medium"}
+{"task_id": "humaneval_test_00065", "task_class": "code", "mean_quality_W1": 0.6637, "mean_quality_W3": 0.9097, "gap": 0.246, "difficulty": "medium"}
+{"task_id": "humaneval_test_00068", "task_class": "code", "mean_quality_W1": 0.5579, "mean_quality_W3": 0.9327, "gap": 0.3748, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00072", "task_class": "code", "mean_quality_W1": 0.5079, "mean_quality_W3": 0.937, "gap": 0.4291, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00093", "task_class": "code", "mean_quality_W1": 0.6834, "mean_quality_W3": 0.9891, "gap": 0.3057, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00101", "task_class": "code", "mean_quality_W1": 0.6362, "mean_quality_W3": 0.8335, "gap": 0.1973, "difficulty": "medium"}
+{"task_id": "humaneval_test_00110", "task_class": "code", "mean_quality_W1": 0.6952, "mean_quality_W3": 0.802, "gap": 0.1068, "difficulty": "medium"}
+{"task_id": "humaneval_test_00112", "task_class": "code", "mean_quality_W1": 0.5823, "mean_quality_W3": 0.9452, "gap": 0.3629, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00115", "task_class": "code", "mean_quality_W1": 0.5777, "mean_quality_W3": 0.8922, "gap": 0.3145, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00120", "task_class": "code", "mean_quality_W1": 0.5533, "mean_quality_W3": 0.8569, "gap": 0.3036, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00121", "task_class": "code", "mean_quality_W1": 0.5517, "mean_quality_W3": 0.9639, "gap": 0.4122, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00125", "task_class": "code", "mean_quality_W1": 0.6582, "mean_quality_W3": 0.8891, "gap": 0.2309, "difficulty": "medium"}
+{"task_id": "humaneval_test_00127", "task_class": "code", "mean_quality_W1": 0.6242, "mean_quality_W3": 0.8521, "gap": 0.2279, "difficulty": "medium"}
+{"task_id": "humaneval_test_00128", "task_class": "code", "mean_quality_W1": 0.5827, "mean_quality_W3": 0.8858, "gap": 0.3031, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00149", "task_class": "code", "mean_quality_W1": 0.5407, "mean_quality_W3": 0.8745, "gap": 0.3338, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00153", "task_class": "code", "mean_quality_W1": 0.5932, "mean_quality_W3": 0.8924, "gap": 0.2992, "difficulty": "medium"}
+{"task_id": "humaneval_test_00154", "task_class": "code", "mean_quality_W1": 0.5151, "mean_quality_W3": 0.8874, "gap": 0.3723, "difficulty": "high difficulty"}
+{"task_id": "humaneval_test_00155", "task_class": "code", "mean_quality_W1": 0.5992, "mean_quality_W3": 0.9779, "gap": 0.3787, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00000", "task_class": "qa", "mean_quality_W1": 0.6557, "mean_quality_W3": 0.9537, "gap": 0.298, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00001", "task_class": "qa", "mean_quality_W1": 0.6308, "mean_quality_W3": 0.9947, "gap": 0.3639, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00011", "task_class": "qa", "mean_quality_W1": 0.639, "mean_quality_W3": 0.9035, "gap": 0.2645, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00014", "task_class": "qa", "mean_quality_W1": 0.6358, "mean_quality_W3": 0.8859, "gap": 0.2501, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00027", "task_class": "qa", "mean_quality_W1": 0.5554, "mean_quality_W3": 0.8669, "gap": 0.3115, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00028", "task_class": "qa", "mean_quality_W1": 0.6814, "mean_quality_W3": 0.7673, "gap": 0.0859, "difficulty": "easy"}
+{"task_id": "triviaqa_train_00029", "task_class": "qa", "mean_quality_W1": 0.6415, "mean_quality_W3": 0.9735, "gap": 0.332, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00032", "task_class": "qa", "mean_quality_W1": 0.4666, "mean_quality_W3": 0.9264, "gap": 0.4598, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00035", "task_class": "qa", "mean_quality_W1": 0.6627, "mean_quality_W3": 0.9075, "gap": 0.2448, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00038", "task_class": "qa", "mean_quality_W1": 0.639, "mean_quality_W3": 0.8615, "gap": 0.2225, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00042", "task_class": "qa", "mean_quality_W1": 0.5632, "mean_quality_W3": 0.9695, "gap": 0.4063, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00045", "task_class": "qa", "mean_quality_W1": 0.6424, "mean_quality_W3": 0.9817, "gap": 0.3393, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00047", "task_class": "qa", "mean_quality_W1": 0.5855, "mean_quality_W3": 0.9212, "gap": 0.3357, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00050", "task_class": "qa", "mean_quality_W1": 0.5183, "mean_quality_W3": 0.7943, "gap": 0.276, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00057", "task_class": "qa", "mean_quality_W1": 0.6451, "mean_quality_W3": 0.9113, "gap": 0.2662, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00059", "task_class": "qa", "mean_quality_W1": 0.6751, "mean_quality_W3": 0.8821, "gap": 0.207, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00061", "task_class": "qa", "mean_quality_W1": 0.5796, "mean_quality_W3": 0.9812, "gap": 0.4016, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00066", "task_class": "qa", "mean_quality_W1": 0.6429, "mean_quality_W3": 0.9298, "gap": 0.2869, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00080", "task_class": "qa", "mean_quality_W1": 0.5676, "mean_quality_W3": 0.9567, "gap": 0.3891, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00082", "task_class": "qa", "mean_quality_W1": 0.6728, "mean_quality_W3": 0.9448, "gap": 0.272, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00086", "task_class": "qa", "mean_quality_W1": 0.6567, "mean_quality_W3": 0.86, "gap": 0.2033, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00087", "task_class": "qa", "mean_quality_W1": 0.5762, "mean_quality_W3": 0.9036, "gap": 0.3274, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00090", "task_class": "qa", "mean_quality_W1": 0.5567, "mean_quality_W3": 0.832, "gap": 0.2753, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00092", "task_class": "qa", "mean_quality_W1": 0.6512, "mean_quality_W3": 0.9493, "gap": 0.2981, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00097", "task_class": "qa", "mean_quality_W1": 0.6373, "mean_quality_W3": 0.8968, "gap": 0.2595, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00102", "task_class": "qa", "mean_quality_W1": 0.6412, "mean_quality_W3": 0.9243, "gap": 0.2831, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00103", "task_class": "qa", "mean_quality_W1": 0.6047, "mean_quality_W3": 0.8301, "gap": 0.2254, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00112", "task_class": "qa", "mean_quality_W1": 0.5741, "mean_quality_W3": 0.9237, "gap": 0.3496, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00113", "task_class": "qa", "mean_quality_W1": 0.633, "mean_quality_W3": null, "gap": null, "difficulty": "undetermined"}
+{"task_id": "triviaqa_train_00118", "task_class": "qa", "mean_quality_W1": 0.6008, "mean_quality_W3": 0.9535, "gap": 0.3527, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00124", "task_class": "qa", "mean_quality_W1": 0.6364, "mean_quality_W3": 0.9708, "gap": 0.3344, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00127", "task_class": "qa", "mean_quality_W1": 0.5041, "mean_quality_W3": 0.9571, "gap": 0.453, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00128", "task_class": "qa", "mean_quality_W1": 0.5614, "mean_quality_W3": 0.8588, "gap": 0.2974, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00130", "task_class": "qa", "mean_quality_W1": 0.6325, "mean_quality_W3": 0.941, "gap": 0.3085, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00131", "task_class": "qa", "mean_quality_W1": 0.6263, "mean_quality_W3": 0.9506, "gap": 0.3243, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00134", "task_class": "qa", "mean_quality_W1": 0.6149, "mean_quality_W3": 0.8371, "gap": 0.2222, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00138", "task_class": "qa", "mean_quality_W1": 0.649, "mean_quality_W3": 0.9396, "gap": 0.2906, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00143", "task_class": "qa", "mean_quality_W1": 0.6171, "mean_quality_W3": 0.7978, "gap": 0.1807, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00145", "task_class": "qa", "mean_quality_W1": 0.6068, "mean_quality_W3": 0.9329, "gap": 0.3261, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00151", "task_class": "qa", "mean_quality_W1": 0.5527, "mean_quality_W3": 0.8493, "gap": 0.2966, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00154", "task_class": "qa", "mean_quality_W1": 0.5876, "mean_quality_W3": 0.7961, "gap": 0.2085, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00156", "task_class": "qa", "mean_quality_W1": 0.6461, "mean_quality_W3": 0.8964, "gap": 0.2503, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00159", "task_class": "qa", "mean_quality_W1": 0.6301, "mean_quality_W3": 0.9012, "gap": 0.2711, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00160", "task_class": "qa", "mean_quality_W1": 0.6046, "mean_quality_W3": 0.9408, "gap": 0.3362, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00169", "task_class": "qa", "mean_quality_W1": 0.6493, "mean_quality_W3": 0.8413, "gap": 0.192, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00170", "task_class": "qa", "mean_quality_W1": 0.5794, "mean_quality_W3": 0.8329, "gap": 0.2535, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00172", "task_class": "qa", "mean_quality_W1": 0.706, "mean_quality_W3": 0.9143, "gap": 0.2083, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00173", "task_class": "qa", "mean_quality_W1": 0.5393, "mean_quality_W3": 0.921, "gap": 0.3817, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00180", "task_class": "qa", "mean_quality_W1": 0.5677, "mean_quality_W3": 0.9599, "gap": 0.3922, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00183", "task_class": "qa", "mean_quality_W1": 0.5973, "mean_quality_W3": 0.9001, "gap": 0.3028, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00184", "task_class": "qa", "mean_quality_W1": 0.5861, "mean_quality_W3": 0.8325, "gap": 0.2464, "difficulty": "medium"}
+{"task_id": "triviaqa_train_00193", "task_class": "qa", "mean_quality_W1": 0.6055, "mean_quality_W3": 0.9208, "gap": 0.3153, "difficulty": "high difficulty"}
+{"task_id": "triviaqa_train_00199", "task_class": "qa", "mean_quality_W1": 0.5709, "mean_quality_W3": 0.8503, "gap": 0.2794, "difficulty": "medium"}
