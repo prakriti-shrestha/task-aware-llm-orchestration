@@ -1,0 +1,10 @@
+.venv/
+venv/
+prompt.md
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+
