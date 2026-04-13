@@ -1,0 +1,10 @@
+policy,task_class,avg_quality,avg_cost
+Always-W1,qa,0.6046,450.85
+Always-W1,code,0.5958,418.87
+Always-W1,reasoning,0.6003,460.2
+Always-W3,qa,0.8973,424.01
+Always-W3,code,0.9004,466.2
+Always-W3,reasoning,0.8946,457.27
+Random,qa,0.7637,458.38
+Random,code,0.7664,457.86
+Random,reasoning,0.7516,452.09
