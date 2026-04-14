@@ -1,0 +1,6 @@
+variant,avg_quality,avg_cost,avg_reward
+Full-System,0.828,442,0.607
+No-Encoder,0.833,452,0.607
+No-NLI,0.78,446,0.556
+No-Bandit,0.747,452,0.521
+No-W3,0.676,454,0.449
