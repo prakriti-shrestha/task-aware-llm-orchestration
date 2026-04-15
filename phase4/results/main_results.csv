@@ -1,0 +1,7 @@
+policy,avg_quality,avg_cost_tokens,avg_cost_usd,avg_reward,n_episodes
+always_w1,0.5938,150.1,0.0003,0.5188,500
+always_w3,0.8635,700.1,0.0042,0.5135,500
+random,0.7245,398.4,0.001955,0.5254,500
+oracle,0.8283,619.4,0.003566,0.5187,500
+linucb_full,0.7666,405.7,0.001999,0.5637,500
+linucb_no_encoder,0.7346,395.9,0.001928,0.5367,500
