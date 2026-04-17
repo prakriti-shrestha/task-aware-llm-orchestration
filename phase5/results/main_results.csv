@@ -1,0 +1,16 @@
+policy,task_class,n,avg_quality,avg_cost,avg_reward
+always_w1,code,10,0.5,318.3,0.3409
+always_w1,qa,10,0.5525,32.4,0.5363
+always_w1,reasoning,10,0.2754,49.8,0.2504
+always_w3,code,10,0.5,12568.2,0.0
+always_w3,qa,10,0.3819,3597.5,-0.1181
+always_w3,reasoning,10,0.4521,5423.4,-0.0479
+linucb,code,10,0.5,8519.5,0.0948
+linucb,qa,10,0.5534,520.3,0.4061
+linucb,reasoning,10,0.285,1539.5,0.1153
+oracle,code,10,0.5,318.3,0.3409
+oracle,qa,10,0.5525,32.4,0.5363
+oracle,reasoning,10,0.4219,297.0,0.3041
+random,code,10,0.5,9583.1,0.117
+random,qa,10,0.5722,1522.5,0.3173
+random,reasoning,10,0.4277,1443.1,0.2141
