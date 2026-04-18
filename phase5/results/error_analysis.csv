@@ -1,66 +1,49 @@
 task_id,task_class,task_snippet,chosen_workflow,oracle_workflow,chosen_quality,oracle_quality,chosen_cost,oracle_cost,reward_gap,feature_norm
-triviaqa_train_00001,qa,Where in England was Dame Judi Dench born?,W3,W1,0.023,0.998,1112,24,1.4628,2.073
-triviaqa_train_00032,qa,Which is the largest of the Japanese Volcano Islands?,W2,W1,0.205,0.991,2961,27,1.2724,2.216
-gsm8k_train_00101,reasoning,Marcy is a makeup artist and has agreed to do some makeup for her friend's wedding. The only makeup …,W3,W1,0.204,0.698,1820,119,0.9346,2.006
-arc_train_00135,reasoning,Which of the water samples described below has the greatest average kinetic energy per molecule?,W3,W1,0.262,0.397,3425,40,0.6149,2.263
-gsm8k_train_00042,reasoning,"A family of 12 monkeys collected 10 piles of bananas. 6 piles had 9 hands, with each hand having 14 …",W1,W3,0.009,0.996,82,1940,0.5285,2.579
-gsm8k_train_00013,reasoning,"Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pou…",W1,W2,0.029,0.975,79,939,0.5163,2.201
-triviaqa_train_00170,qa,Which Welsh singer was invited to sing at the White House on Millennium Eve?,W1,W2,0.0,0.997,30,2562,0.5114,1.865
-gsm8k_train_00078,reasoning,"Manny had 3 birthday cookie pies to share with his 24 classmates and his teacher, Mr. Keith.   If ea…",W1,W3,0.009,0.976,75,1815,0.5047,2.396
-arc_train_00144,reasoning,Scientists know that Earth is constantly changing. They are familiar with the processes that are rep…,W2,W1,0.385,0.4,3363,54,0.4878,2.144
-triviaqa_train_00169,qa,Where was the peace treaty signed that brought World War I to an end?,W3,W1,0.4,0.398,3691,34,0.4818,2.055
-triviaqa_train_00180,qa,"Between 1952 and 1954 did the number of TV stations in the USA double, triple or quadruple?",W2,W1,0.398,0.399,1065,43,0.4797,2.174
-triviaqa_train_00184,qa,The first untethered space walk took place from which space craft?,W2,W1,0.385,0.372,1524,32,0.4706,1.701
-arc_train_00021,reasoning,A signal from the brain to a muscle in the arm is transmitted by which structures?,W3,W1,0.399,0.361,7930,31,0.4473,2.618
-triviaqa_train_00000,qa,Which American-born Sinclair won the Nobel Prize for Literature in 1930?,W3,W1,0.999,0.95,1693,34,0.434,1.983
+gsm8k_train_00101,reasoning,Marcy is a makeup artist and has agreed to do some makeup for her friend's wedding. The only makeup …,W3,W1,0.204,0.698,1820,119,0.9346,1.0
+triviaqa_train_00170,qa,Which Welsh singer was invited to sing at the White House on Millennium Eve?,W1,W2,0.0,0.997,30,2562,0.5114,1.0
+arc_train_00074,reasoning,"The heart, blood vessels, kidneys, and bladder working together are best described as",W2,W1,0.202,0.204,2589,33,0.4865,1.0
+arc_train_00072,reasoning,Corn is widely being used in the United States to make ethanol for use in automobile fuel. How might…,W2,W1,0.384,0.399,2835,57,0.4864,1.0
+triviaqa_train_00183,qa,In which year was Bloody Sunday in Londonderry?,W3,W1,0.999,0.996,3234,28,0.4825,1.0
+humaneval_test_00121,code,"
+def solution(lst):
+    """"""Given a non-empty list of integers, return the sum of all of the odd elem…",W3,W1,0.5,0.5,8298,118,0.441,1.0
 humaneval_test_00007,code,"from typing import List
 
 
 def filter_by_substring(strings: List[str], substring: str) -> List[str]:
-…",W3,W1,0.5,0.5,9375,228,0.386,2.206
-humaneval_test_00047,code,"
-
-def median(l: list):
-    """"""Return median of elements in the list l.
-    >>> median([3, 1, 2, 4, 5…",W3,W1,0.5,0.5,16032,239,0.3805,1.912
-humaneval_test_00012,code,"from typing import List, Optional
-
-
-def longest(strings: List[str]) -> Optional[str]:
-    """""" Out of…",W2,W1,0.5,0.5,5658,249,0.3755,2.26
-humaneval_test_00128,code,"
-def prod_signs(arr):
-    """"""
-    You are given an array arr of integers and you need to return
-    …",W2,W1,0.5,0.5,12561,268,0.366,2.797
+…",W3,W1,0.5,0.5,9375,228,0.386,1.0
+humaneval_test_00125,code,"
+def split_words(txt):
+    '''
+    Given a string of words, return a list of words split on whitespa…",W2,W1,0.5,0.5,7668,264,0.368,1.0
 humaneval_test_00051,code,"
 
 def remove_vowels(text):
     """"""
-    remove_vowels is a function that takes string and returns str…",W2,W1,0.5,0.5,4758,314,0.343,2.048
-triviaqa_train_00102,qa,"In cross-country bike racing, what do the initials BMX represent?",W2,W1,0.397,0.388,732,31,0.3419,1.465
-gsm8k_train_00137,reasoning,3 families of 4 people shared a vacation rental for 7 days.  Everyone uses 1 oversized beach towel a…,W1,W3,0.199,0.994,78,1129,0.3344,1.957
-arc_train_00132,reasoning,Which best determines the health of a lake used as a source of freshwater?,W2,W1,0.385,0.21,2988,31,0.3103,2.33
+    remove_vowels is a function that takes string and returns str…",W3,W1,0.5,0.5,12838,314,0.343,1.0
+arc_train_00132,reasoning,Which best determines the health of a lake used as a source of freshwater?,W3,W1,0.396,0.21,10450,31,0.2986,1.0
 humaneval_test_00149,code,"
 def sorted_list_sum(lst):
     """"""Write a function that accepts a list of strings as a parameter,
-  …",W3,W1,0.5,0.5,15275,466,0.267,2.784
-humaneval_test_00120,code,"
-def maximum(arr, k):
-    """"""
-    Given an array arr of integers and a positive integer k, return a …",W3,W1,0.5,0.5,16823,492,0.254,2.928
-triviaqa_train_00199,qa,Leslie Nielsen trained in which of the armed services in WWII?,W2,W1,0.398,0.396,540,29,0.2535,1.879
-humaneval_test_00072,code,"
-def will_it_fly(q,w):
-    '''
-    Write a function that returns True if the object q will fly, and …",W3,W1,0.5,0.5,13061,523,0.2385,2.51
-triviaqa_train_00045,qa,In the 90s how many points have been awarded for finishing second in a Grand Prix?,W1,W3,0.33,0.992,35,5151,0.1793,1.825
-gsm8k_train_00008,reasoning,Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. …,W1,W3,0.396,0.995,126,1301,0.1627,2.692
-humaneval_test_00127,code,"
-def intersection(interval1, interval2):
-    """"""You are given two intervals,
-    where each interval…",W2,W1,0.5,0.5,197514,733,0.1335,2.42
-humaneval_test_00068,code,"
-def pluck(arr):
-    """"""
-    ""Given an array representing a branch of a tree that has non-negative i…",W2,W1,0.5,0.5,10548,804,0.098,2.649
+  …",W3,W1,0.5,0.5,15275,466,0.267,1.0
+gsm8k_train_00024,reasoning,Mary does her grocery shopping on Saturday. She does her shopping only at a specific store where she…,W3,W1,0.997,0.799,1284,97,0.2542,1.0
+humaneval_test_00110,code,"
+def exchange(lst1, lst2):
+    """"""In this problem, you will implement a function that takes two list…",W2,W1,0.5,0.5,22734,510,0.245,1.0
+triviaqa_train_00045,qa,In the 90s how many points have been awarded for finishing second in a Grand Prix?,W1,W3,0.33,0.992,35,5151,0.1793,1.0
+triviaqa_train_00172,qa,What date is Father's Day?,W1,W2,0.002,0.388,31,444,0.1793,1.0
+gsm8k_train_00088,reasoning,Brandon sold 86 geckos last year. He sold twice that many the year before. How many geckos has Brand…,W3,W1,0.986,0.616,2058,50,0.1052,1.0
+gsm8k_train_00013,reasoning,"Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pou…",W3,W2,0.999,0.975,1732,939,0.0067,1.0
+gsm8k_train_00036,reasoning,"Lisa, Jack, and Tommy earned $60 from washing cars all week. However, half of the $60 was earned by …",W3,W3,0.902,0.902,1484,1484,0.0,1.0
+arc_train_00021,reasoning,A signal from the brain to a muscle in the arm is transmitted by which structures?,W1,W1,0.361,0.361,31,31,0.0,1.0
+gsm8k_train_00137,reasoning,3 families of 4 people shared a vacation rental for 7 days.  Everyone uses 1 oversized beach towel a…,W3,W3,0.994,0.994,1129,1129,0.0,1.0
+arc_train_00135,reasoning,Which of the water samples described below has the greatest average kinetic energy per molecule?,W1,W1,0.397,0.397,40,40,0.0,1.0
+arc_train_00134,reasoning,A crop of corn plants is genetically modified so that the plants produce a natural pesticide. People…,W1,W1,0.008,0.008,75,75,0.0,1.0
+arc_train_00144,reasoning,Scientists know that Earth is constantly changing. They are familiar with the processes that are rep…,W1,W1,0.4,0.4,54,54,0.0,1.0
+arc_train_00018,reasoning,A toothpaste commercial states that a brand of toothpaste has a higher concentration of fluoride tha…,W1,W1,0.343,0.343,53,53,0.0,1.0
+arc_train_00157,reasoning,A doorbell contains a simple electromagnet. Which change would most likely increase the strength of …,W1,W1,0.399,0.399,40,40,0.0,1.0
+arc_train_00000,reasoning,George wants to warm his hands quickly by rubbing them. Which skin surface will produce the most hea…,W1,W1,0.247,0.247,35,35,0.0,1.0
+arc_train_00179,reasoning,Most electrical wires are covered with plastic or rubber. The wires are covered with plastic or rubb…,W1,W1,0.399,0.399,37,37,0.0,1.0
+gsm8k_train_00078,reasoning,"Manny had 3 birthday cookie pies to share with his 24 classmates and his teacher, Mr. Keith.   If ea…",W3,W3,0.976,0.976,1815,1815,0.0,1.0
+gsm8k_train_00008,reasoning,Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. …,W3,W3,0.995,0.995,1301,1301,0.0,1.0
+gsm8k_train_00042,reasoning,"A family of 12 monkeys collected 10 piles of bananas. 6 piles had 9 hands, with each hand having 14 …",W3,W3,0.996,0.996,1940,1940,0.0,1.0

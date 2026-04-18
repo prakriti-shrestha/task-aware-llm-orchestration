@@ -35,7 +35,7 @@ from phase5.workflows.w2_reasoned import W2ReasonedWorkflow
 from phase5.workflows.w3_heavy import W3HeavyWorkflow
 from phase5.quality import score as quality_score
 
-FEATURE_DIM = 16
+FEATURE_DIM = 384  # MiniLM-L6-v2 output dimension
 
 WORKFLOWS = {
     "W1": W1BasicWorkflow(),
@@ -47,27 +47,63 @@ PHASE5_DIR = Path(__file__).resolve().parents[1]
 RESULTS_DIR = PHASE5_DIR / "results"
 FIGURES_DIR = PHASE5_DIR / "figures"
 RUNS_DIR = PHASE5_DIR / "data" / "runs"
+EMB_CACHE_DIR = PHASE5_DIR / "cache" / "embeddings"
 
 
 def ensure_dirs() -> None:
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     FIGURES_DIR.mkdir(parents=True, exist_ok=True)
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    EMB_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+
+
+# ── Sentence-transformer encoder (lazy singleton) ─────────────────────────────
+_ENCODER = None
+
+
+def _get_encoder():
+    """Load the MiniLM encoder once, reuse forever."""
+    global _ENCODER
+    if _ENCODER is None:
+        from phase2.features.encoder import TaskEncoder
+        print("[feature] Loading sentence-transformer encoder (all-MiniLM-L6-v2)…")
+        _ENCODER = TaskEncoder()
+        print("[feature] Encoder ready.")
+    return _ENCODER
 
 
 def feature_vector(task_text: str, task_id: str) -> np.ndarray:
     """
-    Deterministic task encoder.
+    Real task encoder using sentence-transformers (all-MiniLM-L6-v2).
 
-    Must exactly match the function used in phase5/run_phase5.py so that
-    policies trained in run_phase5 can be replayed here.
+    Returns a 384-dim L2-normalised embedding.  Cached to disk so repeated
+    calls for the same text are free.  Cache key is SHA-256 of task_text
+    (not task_id) — if the same text appears under different IDs, we reuse.
     """
-    seed = int(hashlib.md5(task_id.encode()).hexdigest(), 16) % (2 ** 32)
-    rng = random.Random(seed)
-    length_norm = min(len(task_text) / 500.0, 1.0)
-    word_count_norm = min(len(task_text.split()) / 100.0, 1.0)
-    base = [length_norm, word_count_norm] + [rng.random() for _ in range(FEATURE_DIM - 2)]
-    return np.array([round(v, 6) for v in base])
+    EMB_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    key = hashlib.sha256(task_text.encode("utf-8")).hexdigest()
+    cache_path = EMB_CACHE_DIR / f"{key}.npy"
+
+    if cache_path.exists():
+        try:
+            vec = np.load(cache_path)
+            if vec.shape == (FEATURE_DIM,):
+                return vec
+        except Exception:
+            pass  # corrupted cache entry — re-encode
+
+    encoder = _get_encoder()
+    vec = np.asarray(encoder.encode(task_text), dtype=np.float32)
+    if vec.shape != (FEATURE_DIM,):
+        raise ValueError(
+            f"Encoder returned shape {vec.shape}, expected ({FEATURE_DIM},). "
+            f"Update FEATURE_DIM in _shared.py."
+        )
+    try:
+        np.save(cache_path, vec)
+    except Exception:
+        pass  # don't crash on cache write failure
+    return vec
 
 
 def run_task(task: dict, workflow_id: str) -> dict:
