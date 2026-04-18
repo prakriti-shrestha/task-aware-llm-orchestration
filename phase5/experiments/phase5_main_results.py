@@ -43,7 +43,7 @@ from phase5.experiments._shared import (
     feature_vector, run_task, ensure_dirs, write_jsonl,
 )
 from phase5.experiments.baselines import (
-    AlwaysW1Policy, AlwaysW3Policy, RandomPolicy,
+    AlwaysW1Policy, AlwaysW2Policy, AlwaysW3Policy, RandomPolicy,
     OraclePolicy, NoEncoderWrapper,
 )
 
@@ -262,6 +262,7 @@ def main():
 
     policies = [
         ("always_w1", AlwaysW1Policy()),
+        ("always_w2", AlwaysW2Policy()),
         ("always_w3", AlwaysW3Policy()),
         ("random",    RandomPolicy(seed=args.seed)),
         ("oracle",    OraclePolicy(ALL_ARMS_LOG)),
