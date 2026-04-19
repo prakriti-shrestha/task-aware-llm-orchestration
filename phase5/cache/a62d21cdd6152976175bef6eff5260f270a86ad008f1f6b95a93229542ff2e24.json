@@ -1,0 +1,1 @@
+{"text": "```python\nimport math\n\ndef max_fill(grid, capacity):\n    total_water = sum(sum(row) for row in grid)\n    return math.ceil(total_water / capacity)\n```", "tokens": 408}

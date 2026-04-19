@@ -1,0 +1,1 @@
+{"text": "```python\ndef any_int(x, y, z):\n    if not all(isinstance(n, int) for n in [x, y, z]):\n        return False\n    return x == y + z or y == x + z or z == x + y\n```", "tokens": 224}

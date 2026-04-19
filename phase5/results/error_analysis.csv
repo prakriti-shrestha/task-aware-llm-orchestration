@@ -1,0 +1,56 @@
+task_id,task_class,task_snippet,chosen_workflow,oracle_workflow,chosen_quality,oracle_quality,chosen_cost,oracle_cost,reward_gap,feature_norm
+gsm8k_train_00101,reasoning,Marcy is a makeup artist and has agreed to do some makeup for her friend's wedding. The only makeup …,W3,W1,0.204,0.698,1820,119,0.9346,1.0
+triviaqa_train_00001,qa,Where in England was Dame Judi Dench born?,W2,W1,0.399,0.998,516,24,0.8446,1.0
+triviaqa_train_00038,qa,In which decade of the 20th century was Billy Crystal born?,W3,W1,0.658,0.95,2018,33,0.7754,1.0
+gsm8k_train_00150,reasoning,Angela is a bike messenger in New York. She needs to deliver 8 times as many packages as meals. If s…,W3,W1,0.604,0.9,1903,56,0.7682,1.0
+gsm8k_train_00015,reasoning,James creates a media empire.  He creates a movie for $2000.  Each DVD cost $6 to make.  He sells it…,W3,W2,0.375,0.933,3504,1638,0.5581,1.0
+triviaqa_train_00057,qa,The Queen Elizabeth liner was destroyed by fire in the 70s in which harbour?,W2,W1,0.339,0.398,3183,34,0.5424,1.0
+gsm8k_train_00064,reasoning,James earns $20 an hour while working at his main job.  He earns 20% less while working his second j…,W1,W3,0.008,0.991,74,1810,0.5197,1.0
+triviaqa_train_00170,qa,Which Welsh singer was invited to sing at the White House on Millennium Eve?,W1,W2,0.0,0.997,30,2562,0.5114,1.0
+gsm8k_train_00185,reasoning,Caleb and his dad went fishing at the lake.  Caleb caught 2 trouts and his dad caught three times as…,W3,W1,0.931,0.955,2003,58,0.4943,1.0
+arc_train_00074,reasoning,"The heart, blood vessels, kidneys, and bladder working together are best described as",W2,W1,0.202,0.204,2589,33,0.4865,1.0
+arc_train_00072,reasoning,Corn is widely being used in the United States to make ethanol for use in automobile fuel. How might…,W2,W1,0.384,0.399,2835,57,0.4864,1.0
+triviaqa_train_00087,qa,Who had an 80s No 1 hit with Can't Fight This Feeling?,W3,W1,1.0,0.999,2047,36,0.4816,1.0
+triviaqa_train_00124,qa,Who was the Egyptian king whose tomb an treasures were discovered in the Valley of the Kings in 1922…,W3,W1,0.398,0.399,2760,41,0.4807,1.0
+triviaqa_train_00103,qa,"After retiring as a player, with what team did baseball great Babe Ruth spend one year as a coach?",W3,W1,0.399,0.398,3192,36,0.4802,1.0
+arc_train_00036,reasoning,"Rain forests contain more species of trees than any other biome. However, scientists have found that…",W3,W1,0.398,0.399,5255,58,0.4726,1.0
+gsm8k_train_00092,reasoning,Sally and Bob have made plans to go on a trip at the end of the year. They both decide to work as ba…,W2,W1,0.988,0.997,1203,87,0.4649,1.0
+gsm8k_train_00149,reasoning,"In 3 years, Jayden will be half of Ernesto's age. If Ernesto is 11 years old, how many years old is …",W3,W1,0.996,0.977,1234,48,0.457,1.0
+gsm8k_train_00177,reasoning,"James decides to replace his car.  He sold his $20,000 car for 80% of its value and then was able to…",W3,W2,0.385,0.838,1599,1164,0.4532,1.0
+humaneval_test_00121,code,"
+def solution(lst):
+    """"""Given a non-empty list of integers, return the sum of all of the odd elem…",W2,W1,0.5,0.5,19710,118,0.441,1.0
+humaneval_test_00041,code,"
+
+def car_race_collision(n: int):
+    """"""
+    Imagine a road that's a perfectly straight infinitely …",W3,W1,0.5,0.5,9718,176,0.412,1.0
+gsm8k_train_00105,reasoning,"Paddington has 40 more goats than Washington. If Washington has 140 goats, how many goats do they ha…",W3,W1,0.996,0.929,1037,45,0.411,1.0
+humaneval_test_00007,code,"from typing import List
+
+
+def filter_by_substring(strings: List[str], substring: str) -> List[str]:
+…",W3,W1,0.5,0.5,9375,228,0.386,1.0
+triviaqa_train_00042,qa,Where is the multinational Nestle based?,W1,W2,0.398,0.999,24,459,0.3835,1.0
+humaneval_test_00047,code,"
+
+def median(l: list):
+    """"""Return median of elements in the list l.
+    >>> median([3, 1, 2, 4, 5…",W2,W1,0.5,0.5,19551,239,0.3805,1.0
+humaneval_test_00125,code,"
+def split_words(txt):
+    '''
+    Given a string of words, return a list of words split on whitespa…",W3,W1,0.5,0.5,15686,264,0.368,1.0
+humaneval_test_00042,code,"
+
+def incr_list(l: list):
+    """"""Return list with elements incremented by 1.
+    >>> incr_list([1, 2…",W3,W1,0.5,0.5,9624,268,0.366,1.0
+humaneval_test_00051,code,"
+
+def remove_vowels(text):
+    """"""
+    remove_vowels is a function that takes string and returns str…",W2,W1,0.5,0.5,4758,314,0.343,1.0
+gsm8k_train_00058,reasoning,A Statistics student wants to find out the average daily allowance of the middle school students. Ac…,W2,W1,0.811,0.676,1743,91,0.3195,1.0
+triviaqa_train_00027,qa,"Who had a 70s No 1 hit with Billy, Don't Be A Hero?",W3,W1,0.163,0.0,3950,36,0.3191,1.0
+triviaqa_train_00128,qa,Which British general was killed at Khartoum in 1885?,W2,W1,0.396,0.347,753,30,0.3127,1.0
