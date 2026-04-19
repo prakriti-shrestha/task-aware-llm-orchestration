@@ -1,0 +1,1 @@
+{"text": "```python\ndef multiply(a, b):\n    return (a % 10) * (b % 10)\n```", "tokens": 161}
